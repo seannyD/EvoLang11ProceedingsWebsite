@@ -1,0 +1,103 @@
+Timetable for Editing
+---------------------
+
+For EvoLang10, the main constraint was getting the camera-ready version to the printers, so the proposed schedule looked something like this:
+
+By May 11th - call for papers live on website, EasyChair website running.
+By June 1st - list of reviewers is agreed
+Sept 4th -- abstracts due (will eventually be pushed back to September 11th)
+Sept 16th, 17th, or 18th -- committee meets to assign reviewers
+Sept 24th -- abstracts sent to reviewers
+October 23rd -- reviews due
+Week of October 23rd -- committee harasses late reviewers
+Last week of October -- committee supplies additional reviews if necessary
+Nov 4th or 5th -- committee meets to decide on accepted papers
+6th November -- authors notified of paper status
+Nov 30th -- camera-ready version due from authors
+Dec 14th -- camera-ready version to World Scientific
+first week of April -- books delivered to Vienna 
+14th-17th April: conference
+
+For EvoLang 11, the proceedings were online and controlled by us, so we pushed the deadlines back.  In retrospect, while I think this made revisions better, and many of the later submissions were from first-time submitters, the lateness of the acceptance notice made things difficult for people planning their trip.  In the future, if things are delayed, then it is important to communicate this to people.
+
+So, the actual schedule was something like:
+
+
+Original announcement date: June 2nd (linguist list)
+Early bird rate ends: 31st December
+Original submission deadline: Sept 4th
+Extended deadline: September 18th
+Notification: November 29
+
+
+
+Registration
+------------
+
+Registration was very late, making the budget uncertain.  Recommend pushing for early registration.
+
+
+Workshops
+---------
+
+For EvoLang 11:
+Workshop submission deadline: Janu 15th
+Workshop submissions accepted: 1st Feb
+
+For EvoLang 11, the workshop topics and convenors were after the conference submission deadline.  This made it difficult for some people to know whether their paper should be conference or workshop paper, and there were several changes as a result.  A request was made that the workshop topics and convenors be sorted before the final call - which is reasonable, since they are mostly independent.
+
+
+
+EasyChair and Conference website
+--------------------------------
+I wouldn't necessarily recommend EasyChair for the next conference:  It did the job (including double blind reviewing), but some found it a bit fiddly.  The cost of the license was £400.
+
+A custom set of programs was built to turn the EasyChair data into a conference website:
+http://evolang.org/neworleans/
+
+The code for the program is on GitHub:
+https://github.com/seannyD/EvoLang11ProceedingsWebsite
+
+Building this took some effort, but it meant that papers could be released as they came in, and were available before the conference.  They will remain on the website and be more accessible than the paper versions.  It also saved money (something between $5000 and 
+$9000).  If possible, this saving should go into student grants.
+
+The website had around 5000 page visits, with about 1/3 of visits happening during the conference itself.  The publications appear in google scholar.
+
+A discussion of these issues is archived in the file Administration/DiscussionOfOnlinePublicationAndDoubleBlindReview.txt
+
+The proceedings were hosted on evolang.org, which is owned and maintained by Luke McCrohon.
+
+
+Email addresses
+---------------
+
+The list of people submitted and connected to EvoLang is found in private/Emails
+
+
+Licenses and copyright
+----------------------
+
+I was in touch with an academic who has had dealings with the legal side of open access publishing.  They said that the issue of copyright and publishing license are separate.  The copyright can remain with the authors, but they allow EvoLang to publish their work under a given license.  We used Creative Commons licenses.
+
+
+The following text was used to ask each corresponding author for license (in a google doc for convenience):
+
+After speaking with some experts, we realise that the previous advice about licenses was not suitable.  The issue of who holds the copyright is separate from the license to publish between the author and the publisher.
+
+Therefore, all authors will retain copyright of their work, and in addition allow the EvoLang Committee to publish their work online through the license of their choice.  There are no fees involved and the EvoLang committee will not sell the work.
+
+After more discussion, we are now advocating the use of CC BY license, which allows free reuse of the work as long as the original authors are attributed.  This is the standard license for many open access journals, and there is a good article here making the case for using CC BY for academic work:
+http://jlm.ipipan.waw.pl/index.php/JLM/article/viewFile/58/27
+
+However, you are free to choose a more restrictive license if you wish.  More information on creative commons licenses are available here: https://creativecommons.org/licenses/
+
+Do you wish your paper to appear in the proceedings?
+- Yes
+- No
+- Yes, but not immediately
+
+If you do want your paper included (at some point):
+Please indicate that you agree with the following statement by selecting an option below: "We the authors retain exclusive copyright of the work.  We grant non-exclusive production and dissemination rights to The EvoLang Committee for purposes of putting our paper in the EvoLang online conference proceedings, with the understanding that it will appear under the following license:"
+- Creative Commons CC BY license (preferred)
+- Creative Commons CC BY-NC-ND license
+- Some other license (please specify) _____

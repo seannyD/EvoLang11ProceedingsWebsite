@@ -1,0 +1,5 @@
+<div id="topic">
+	<a name="__TOPICTITLE__"></a> 
+	<p><span class="topictitle">__TOPICTITLE__</span></p>
+	__TOPICCONTENTS__
+</div>

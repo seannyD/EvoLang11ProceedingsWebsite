@@ -1,0 +1,481 @@
+		Gerhard Jaeger <>	Christine Cuskley	Oct-20		Nov-21
+		Jeremy Collins <>	Christine Cuskley	Oct-20		Nov-19
+		Carel ten Cate <>	Sean Roberts	Oct-19		Oct-25
+		Anne van der Kant <>	Sean Roberts	Oct-19		Nov-17
+		Mark Bartlett <>	Sean Roberts	Oct-19		Nov-26
+		Ashley Micklos <>	Sean Roberts	Oct-19		Nov-20
+		Kenta Suzuki <>	Sean Roberts	Oct-19		Nov-20
+		Andreea Geambasu <>	Sean Roberts	Oct-19		Nov-20
+		Ljiljana Progovac <>	Sean Roberts	Oct-19		Oct-26
+		Michael Pleyer <>	Sean Roberts	Oct-19		Nov-26
+		Carmen Saldana <>	Sean Roberts	Oct-19		Nov-17
+		Alfredo Ardila <>	Sean Roberts	Oct-19		Oct-26
+		Teresa Bejarano <>	Sean Roberts	Oct-19		Nov-02
+		Antoni Gomila <>	Sean Roberts	Oct-19		Nov-17
+		Alan Nielsen <>	Sean Roberts	Oct-19		Nov-20
+		Katie Slocombe <>	Sean Roberts	Oct-19		Nov-17
+		Przemyslaw Zywiczynski <>	Sean Roberts	Oct-19		Nov-02
+		Gregory Mills <>	Sean Roberts	Oct-19		Nov-21
+		Olivier Morin <>	Sean Roberts	Oct-19		Oct-26
+		Jean-Louis Dessalles <>	Sean Roberts	Oct-19		Nov-17
+		Rick Janssen <>	Sean Roberts	Oct-19		Nov-20
+		Antonio Benítez-Burraco <>	Sean Roberts	Oct-19		Nov-20
+		Sergio Balari <>	Sean Roberts	Oct-19		Nov-17
+		Mieko Ogura <>	Sean Roberts	Oct-19		Nov-17
+		Tessa Verhoef <>	Sean Roberts	Oct-19		Nov-02
+		Joana Rosselló <>	Sean Roberts	Oct-19		Oct-26
+		Estefania Santacreu-Vasut <>	Sean Roberts	Oct-19		Nov-20
+		Przemyslaw Zywiczynski <>	Sean Roberts	Oct-19		Nov-02
+		Paul Vogt <>	Sean Roberts	Oct-19		Nov-20
+		Rie Asano <>	Sean Roberts	Oct-19		Nov-17
+		Keelin Murray <>	Sean Roberts	Oct-19		Oct-26
+		Peeter Tinits <>	Sean Roberts	Oct-19		Nov-20
+		Kazuo Okanoya <>	Sean Roberts	Oct-19		Nov-20
+		Sabrina Engesser <>	Sean Roberts	Oct-19		Oct-26
+		Cedric Boeckx <>	Sean Roberts	Oct-19		Oct-27
+		Carel ten Cate <>	Sean Roberts	Oct-19		Oct-26
+		Jérôme Michaud <>	Sean Roberts	Oct-19		Nov-17
+		Richard Blythe <>	Sean Roberts	Oct-19		Nov-02
+		Carmen Saldana <>	Sean Roberts	Oct-19		Nov-17
+		Samarth Swarup <>	Sean Roberts	Oct-19		Nov-21
+		Michael Franke <>	Sean Roberts	Oct-19		Nov-20
+		Takashi Hashimoto <>	Sean Roberts	Oct-19		Nov-26
+		Thom Scott-Phillips <>	Christine Cuskley	Oct-20		Nov-13
+		Catriona Silvey <>	Christine Cuskley	Oct-20		Nov-02
+		Michael Franke <>	Christine Cuskley	Oct-20		Nov-19
+		Barbora Skarabela <>	Sean Roberts	Oct-19		Nov-20
+		Roslyn Frank <>	Sean Roberts	Oct-19		Nov-17
+		Marie Coppola <>	Sean Roberts	Oct-19		Nov-21
+		Marcus Perlman <>	Sean Roberts	Oct-19		Oct-26
+		Maggie Tallerman <>	Christine Cuskley	Oct-20		Oct-26
+		David Lightfoot <>	Christine Cuskley	Oct-20		Oct-29
+		Paul Vogt <>	Christine Cuskley	Oct-20		Nov-18
+		Vanessa Ferdinand <>	Sean Roberts	Oct-19		Nov-20
+		Savithry Namboodiripad <>	Sean Roberts	Oct-19		Nov-20
+		Dankmar Enke <>	Sean Roberts	Oct-19		Nov-20
+		Marie Coppola <>	Sean Roberts	Oct-19		Nov-21
+		Kensy Cooperrider <>	Sean Roberts	Oct-19		Nov-21
+		Rick Janssen <>	Sean Roberts	Oct-19		Nov-20
+		Natalie Uomini <>	Sean Roberts	Oct-19		Nov-20
+		Barbora Skarabela <>	Sean Roberts	Oct-19		Nov-20
+		Rose Stamp <>	Sean Roberts	Oct-19		Oct-26
+		Nicolas Fay <>	Sean Roberts	Nov-18		Nov-20
+		Rory Turnbull <>	Sean Roberts	Oct-19		Oct-26
+		Christian Abry <>	Sean Roberts	Oct-19		Nov-20
+		Bart de Boer <>	Sean Roberts	Oct-19		Nov-17
+		Madza Farias-Virgens <>	Sean Roberts	Oct-19		Oct-26
+		Anne van der Kant <>	Sean Roberts	Oct-19		Nov-17
+		Timo Ahlers <>	Sean Roberts	Oct-19		Oct-26
+		James Steele <>	Sean Roberts	Oct-19		Nov-02
+		Sonia Ragir <>	Sean Roberts	Oct-19		Nov-02
+		Daniel Dor <>	Christine Cuskley	Oct-20		Nov-18
+		Koji Fujita <>	Christine Cuskley	Oct-20		Oct-26
+		Ashley Micklos <>	Christine Cuskley	Oct-20		Nov-19
+		Slawomir Wacewicz <>	Christine Cuskley	Oct-20		Oct-26
+		Kensy Cooperrider <>	Christine Cuskley	Oct-20		Nov-21
+		Irene Pepperberg <>	Sean Roberts	Oct-19		Oct-26
+		Sabrina Engesser <>	Sean Roberts	Oct-19		Oct-26
+		Alan Nielsen <>	Christine Cuskley	Oct-20		Nov-19
+		Ryan Lepic <>	Christine Cuskley	Oct-21		Nov-11
+		Bodo Winter <>	Sean Roberts	Oct-19		Oct-26
+		Remi Van Trijp <>	Sean Roberts	Oct-19		Nov-21
+		Bill Thompson <>	Sean Roberts	Oct-19		Nov-21
+		Paul Vogt <>	Sean Roberts	Oct-19		Nov-20
+		Freek Van de Velde <>	Sean Roberts	Oct-19		Oct-26
+		Takashi Hashimoto <>	Sean Roberts	Oct-19		Nov-25
+		Richard Moore <>	Sean Roberts	Oct-19		Nov-17
+		Przemyslaw Zywiczynski <>	Sean Roberts	Oct-19		Nov-02
+		Michael Spranger <>	Sean Roberts	Oct-19		Nov-20
+		Tessa Verhoef <>	Christine Cuskley	Oct-20		Nov-02
+		Alex Carstensen <>	Christine Cuskley	Oct-20		Nov-21
+		Maurício Martins <>	Lluís Barceló I Coblijn	Oct-30		Nov-05
+		Joan Bybee <>	Sean Roberts	Oct-19		Nov-17
+		Rose Stamp <>	Sean Roberts	Oct-19		Oct-26
+		Joana Rosselló <>	Sean Roberts	Oct-19		Oct-26
+		Aritz Irurtzun <>	Sean Roberts	Oct-19		Oct-26
+		Anne Marie Di Sciullo <>	Sean Roberts	Oct-19		Nov-17
+		Juan Carlos Moreno Cabrera <>	Sean Roberts	Oct-19		Nov-17
+		Simon Levy <>	Sean Roberts	Oct-19		Oct-26
+		Robert Berwick <>	Sean Roberts	Oct-19		Nov-17
+		Michael Arbib <>	Sean Roberts	Oct-19		Nov-17
+		Bart de Boer <>	Sean Roberts	Oct-19		Nov-17
+		Andrew Wedel <>	Sean Roberts	Oct-19		Nov-17
+		Klaas Seinhorst <>	Sean Roberts	Oct-21		Nov-17
+		James Steele <>	Sean Roberts	Oct-19		Nov-02
+		Takeshi Nishimura <>	Sean Roberts	Oct-19		Nov-02
+		Cory M Cuthbertson <>	Sean Roberts	Oct-19		Nov-20
+		Vanessa Ferdinand <>	Sean Roberts	Oct-19		Nov-20
+		Maggie Tallerman <>	Sean Roberts	Oct-19		Oct-26
+		Marie Montant <>	Sean Roberts	Oct-19		Oct-26
+		Phillip Alday <>	Sean Roberts	Oct-19		Nov-20
+		Ljiljana Progovac <>	Sean Roberts	Oct-19		Oct-26
+		Connie de Vos <>	Sean Roberts	Oct-19		Nov-17
+		Joana Rosselló <>	Sean Roberts	Oct-19		Oct-26
+		Federica Cavicchio <>	Sean Roberts	Oct-27		Nov-17
+		Gary Lupyan <>	Christine Cuskley	Oct-20		Nov-16
+		Bodo Winter <>	Sean Roberts	Oct-19		Oct-26
+		Andreea Geambasu <>	Sean Roberts	Oct-19		Nov-20
+		Till Bergmann <>	Sean Roberts	Oct-19		Nov-20
+		Elizabeth Irvine <>	Christine Cuskley	Oct-20		Oct-21
+		Damian Blasi <>	Christine Cuskley	Oct-20		Oct-26
+		Elizabeth Irvine <>	Sean Roberts	Oct-19		Oct-26
+		Kevin Stadler <>	Sean Roberts	Oct-19		Nov-22
+		Tao Gong <>	Sean Roberts	Oct-19		Oct-26
+		Maggie Tallerman <>	Sean Roberts	Oct-19		Oct-26
+		James Winters <>	Sean Roberts	Oct-19		Nov-22
+		Daniel Dor <>	Sean Roberts	Oct-19		Nov-20
+		David Lightfoot <>	Sean Roberts	Oct-19		Nov-02
+		Simon Levy <>	Sean Roberts	Oct-19		Oct-26
+		Dankmar Enke <>	Sean Roberts	Oct-19		Nov-20
+		Catriona Silvey <>	Sean Roberts	Oct-19		Oct-27
+		Gareth Roberts <>	Sean Roberts	Oct-19		Nov-17
+		Marieke Woensdregt <>	Sean Roberts	Oct-19		Nov-20
+		Camilla Power <>	Sean Roberts	Oct-19		Nov-17
+		David Leavens <>	Sean Roberts	Oct-19		Oct-26
+		Irene Pepperberg <>	Sean Roberts	Oct-19		Oct-26
+		Michael Spranger <>	Christine Cuskley	Oct-20		Nov-18
+		Brady Clark <>	Christine Cuskley	Oct-20		Nov-17
+		Andreas Baumann <>	Christine Cuskley	Oct-20		Oct-29
+		Natalie Uomini <>	Sean Roberts	Oct-19		Nov-20
+		Michael Arbib <>	Sean Roberts	Oct-19		Nov-17
+		Daniel Dor <>	Sean Roberts	Oct-19		Nov-20
+		Maggie Tallerman <>	Sean Roberts	Oct-19		Oct-26
+		Slawomir Wacewicz <>	Sean Roberts	Oct-19		Oct-26
+		Cory M Cuthbertson <>	Sean Roberts	Oct-19		Nov-20
+		Camilla Power <>	Sean Roberts	Oct-19		Nov-17
+		Ramon Ferrer I Cancho <>	Sean Roberts	Oct-19		Nov-17
+		Dillon Niederhut <>	Sean Roberts	Oct-19		Nov-17
+		Aleksandrs Berdicevskis <>	Sean Roberts	Oct-19		Nov-20
+		Gareth Roberts <>	Christine Cuskley	Oct-20		Nov-17
+		Mark Atkinson <>	Christine Cuskley	Oct-20		Oct-23
+		Kenny Smith <>	Christine Cuskley	Oct-20		Nov-23
+		Maryia Fedzechkina <>	Sean Roberts	Oct-19		Nov-20
+		Rose Stamp <>	Sean Roberts	Oct-19		Oct-26
+		Federica Cavicchio <>	Sean Roberts	Oct-19		Nov-17
+		Antonio Benítez-Burraco <>	Sean Roberts	Oct-19		Nov-20
+		Juan Carlos Moreno Cabrera <>	Sean Roberts	Oct-19		Nov-17
+		Sergio Balari <>	Sean Roberts	Oct-19		Nov-17
+		Aritz Irurtzun <>	Sean Roberts	Oct-19		Nov-17
+		Koji Fujita <>	Sean Roberts	Oct-19		Oct-26
+		Mauricio Martins <>	Lluís Barceló I Coblijn	Nov-05		Nov-09
+		Olivier Morin <>	Christine Cuskley	Oct-20		Oct-26
+		Christine Caldwell <>	Christine Cuskley	Oct-20		Nov-19
+		Richard Moore <>	Christine Cuskley	Oct-20		Nov-11
+		Natalie Uomini <>	Sean Roberts	Oct-19		Nov-20
+		Simon Townsend <>	Sean Roberts	Oct-19		Nov-21
+		Simon Townsend <>	Sean Roberts	Oct-19		Nov-21
+		Natalie Uomini <>	Sean Roberts	Oct-19		Nov-20
+		Kobin Kendrick <>	Sean Roberts	Oct-19		Nov-17
+		Marcus Perlman <>	Sean Roberts	Oct-19		Oct-26
+		Anneliese Kuhle <>	Olga Feher	Nov-06		Nov-21
+		Sonia Ragir <>	Christine Cuskley	Oct-20		Oct-29
+		Matt Cartmill <>	Christine Cuskley	Oct-20		Oct-21
+		Rie Asano <>	Sean Roberts	Oct-19		Nov-17
+		Chris Knight <>	Sean Roberts	Oct-19		Nov-20
+		Camilla Power <>	Sean Roberts	Oct-19		Nov-17
+		Heidi Lyn <>	Sean Roberts	Oct-19		Nov-20
+		Sabrina Engesser <>	Sean Roberts	Oct-19		Oct-26
+		Cedric Boeckx <>	Sean Roberts	Oct-19		Oct-27
+		Dan Dediu <>	Sean Roberts	Oct-19		Oct-25
+		Kevin Stadler <>	Sean Roberts	Oct-19		Nov-22
+		Rie Asano <>	Christine Cuskley	Oct-20		Nov-16
+		Connie de Vos <>	Christine Cuskley	Oct-20		Nov-09
+		Marie Coppola <>	Christine Cuskley	Oct-20		Nov-21
+		Aleksandrs Berdicevskis <>	Christine Cuskley	Oct-20		Nov-20
+		Timo Ahlers <>	Christine Cuskley	Oct-21		Nov-10
+		Richard Blythe <>	Sean Roberts	Oct-19		Nov-02
+		Jasmeen Kanwal <>	Sean Roberts	Oct-19		Nov-21
+		Maryia Fedzechkina <>	Sean Roberts	Oct-19		Nov-21
+		Michael Spranger <>	Sean Roberts	Oct-19		Nov-20
+		Roslyn Frank <>	Sean Roberts	Oct-19		Nov-17
+		Aritz Irurtzun <>	Sean Roberts	Oct-19		Nov-17
+		Ljiljana Progovac <>	Sean Roberts	Oct-19		Oct-26
+		Gerhard Jaeger <>	Sean Roberts	Oct-19		Nov-22
+		James Kirby <>	Sean Roberts	Oct-19		Oct-26
+		Mark Ellison <>	Sean Roberts	Oct-19		Nov-23
+		Tecumseh Fitch <>	Sean Roberts	Oct-19		Nov-25
+		Matt Cartmill <>	Sean Roberts	Oct-19		Oct-26
+		Andrea Ravignani <>	Sean Roberts	Oct-19		Nov-02
+		Christine Cuskley <>	Sean Roberts	Oct-19		Oct-26
+		Stefan Hartmann <>	Sean Roberts	Oct-27		Oct-27
+		Robert Berwick <>	Sean Roberts	Oct-19		Nov-17
+		Mark Ellison <>	Sean Roberts	Oct-19		Nov-23
+		Damian Blasi <>	Sean Roberts	Oct-19		Oct-26
+		Greg Bryant <>	Christine Cuskley	Oct-20		Nov-22
+		Federica Cavicchio <>	Christine Cuskley	Oct-20		Nov-18
+		Keelin Murray <>	Christine Cuskley	Oct-20		Oct-21
+		Christian Abry <>	Christine Cuskley	Oct-20		Nov-20
+		Mieko Ogura <>	Sean Roberts	Oct-19		Nov-17
+		Greg Bryant <>	Sean Roberts	Oct-19		Nov-22
+		David Lightfoot <>	Sean Roberts	Oct-19		Nov-02
+		Nikolas Gisborne <>	Sean Roberts	Oct-19		Nov-17
+		Dan Dediu <>	Sean Roberts	Oct-19		Oct-26
+		Hope Morgan <>	Sean Roberts	Oct-19		Nov-17
+		Kensy Cooperrider <>	Sean Roberts	Oct-19		Nov-21
+		Remi Van Trijp <>	Sean Roberts	Oct-19		Nov-21
+		Jeremy Collins <>	Sean Roberts	Oct-19		Nov-20
+		Marcus Perlman <>	Sean Roberts	Oct-19		Oct-26
+		Sabine van der Ham <>	Sean Roberts	Oct-19		Nov-17
+		Jeremy Collins <>	Sean Roberts	Oct-19		Nov-20
+		Connie de Vos <>	Sean Roberts	Oct-19		Nov-17
+		Jennifer Culbertson <>	Sean Roberts	Oct-19		Nov-17
+		Takeshi Nishimura <>	Sean Roberts	Oct-19		Nov-02
+		Bart de Boer <>	Sean Roberts	Oct-19		Nov-17
+		James Kirby <>	Tessa Verhoef	Oct-20		Oct-30
+		Jon Carr <>	Sean Roberts	Oct-19		Nov-21
+		Fusa Katada <>	Luke Mccrohon	Oct-21		Nov-20
+		Slawomir Wacewicz <>	Luke Mccrohon	Oct-21		Nov-03
+		Savithry Namboodiripad <>	Tessa Verhoef	Oct-20		Nov-21
+		Luke McCrohon <>	Tessa Verhoef	Oct-20		Nov-23
+		Nicolas Fay <>	Sean Roberts	Nov-18		Nov-20
+		Ramon Ferrer I Cancho <>	Sean Roberts	Oct-19		Nov-17
+		Michael Pleyer <>	Sean Roberts	Oct-19		Nov-26
+		Molly Lewis <>	Sean Roberts	Oct-19		Nov-21
+		Andrea Ravignani <>	Sean Roberts	Oct-19		Nov-02
+		Michelle Spierings <>	Sean Roberts	Oct-19		Nov-17
+		Heidi Lyn <>	Olga Feher	Oct-23		Nov-21
+		Stefan Hartmann <>	Christine Cuskley	Oct-20		Oct-21
+		Nicolas Fay <>	Christine Cuskley	Nov-17		Nov-18
+		Rick Janssen <>	Tessa Verhoef	Oct-20		Nov-21
+		Simon Townsend <>	Tessa Verhoef	Oct-20		Nov-21
+		Michael Spranger <>	Sean Roberts	Oct-19		Nov-20
+		Matt Spike <>	Sean Roberts	Oct-19		Nov-17
+		Ljiljana Progovac <>	Sean Roberts	Nov-02		Nov-17
+		Anne Marie Di Sciullo <>	Sean Roberts	Nov-02		Nov-17
+		Takashi Hashimoto <>	Lluís Barceló I Coblijn	Nov-05		Nov-27
+		Molly Flaherty <>	Tessa Verhoef	Oct-20		Nov-22
+		Kensy Cooperrider <>	Tessa Verhoef	Oct-20		Nov-21
+		Marieke Schouwstra <>	Tessa Verhoef	Oct-29		Nov-16
+		Simon Kirby <>	Olga Feher	Oct-26		Nov-21
+		Chris Knight <>	Luke Mccrohon	Oct-21		Nov-20
+		Robert Truswell <>	Luke Mccrohon	Oct-21		Nov-20
+		Mark Ellison <>	Luke Mccrohon	Oct-21		Nov-23
+		Roland Mühlenbernd <>	Sean Roberts	Oct-19		Nov-17
+		Matt Spike <>	Sean Roberts	Oct-19		Nov-17
+		Anne van der Kant <>	Olga Feher	Oct-26		Nov-21
+		Madza Farias-Virgens <>	Olga Feher	Oct-26		Nov-23
+		Gareth Roberts <>	Sean Roberts	Nov-18		Nov-20
+		Andrea Ravignani <>	Olga Feher	Oct-26		Nov-21
+		Michelle Spierings <>	Olga Feher	Oct-26		Nov-21
+		Irene Pepperberg <>	Olga Feher	Oct-26		Nov-21
+		Andreas Baumann <>	Sean Roberts	Nov-02		Nov-20
+		Marieke Schouwstra <>	Christine Cuskley	Oct-20		Nov-09
+		Joan Bybee <>	Christine Cuskley	Oct-20		Nov-05
+		Gary Lupyan <>	Sean Roberts	Oct-19		Nov-17
+		Catriona Silvey <>	Sean Roberts	Oct-19		Oct-27
+		Alex Carstensen <>	Sean Roberts	Oct-19		Nov-21
+		Heidi Lyn <>	Olga Feher	Oct-26		Nov-21
+		David Leavens <>	Olga Feher	Oct-26		Nov-21
+		Joan Bybee <>	Sean Roberts	Oct-19		Nov-17
+		Tao Gong <>	Sean Roberts	Oct-19		Oct-26
+		Michael Franke <>	Sean Roberts	Oct-19		Nov-20
+		Mark Bartlett <>	Sean Roberts	Oct-19		Nov-26
+		Camilla Power <>	Sean Roberts	Oct-19		Nov-17
+		Juan Carlos Moreno Cabrera <>	Sean Roberts	Nov-02		Nov-17
+		Anne Marie Di Sciullo <>	Sean Roberts	Nov-02		Nov-17
+		Samarth Swarup <>	Sean Roberts	Oct-19		Nov-21
+		Michael Franke <>	Sean Roberts	Oct-19		Nov-20
+		Matt Spike <>	Sean Roberts	Oct-19		Nov-17
+		Kazuo Okanoya <>	Christine Cuskley	Oct-20		Nov-19
+		Katie Slocombe <>	Christine Cuskley	Oct-20		Nov-18
+		Thom Scott-Phillips <>	Tessa Verhoef	Oct-20		Nov-16
+		Ashley Micklos <>	Tessa Verhoef	Oct-20		Nov-21
+		Gareth Roberts <>	Sean Roberts	Nov-18		Nov-20
+		Roland Mühlenbernd <>	Sean Roberts	Oct-19		Nov-17
+		Simon Kirby <>	Sean Roberts	Oct-19		Nov-20
+		Carlos Santana <>	Sean Roberts	Oct-19		Oct-26
+		Joana Rosselló <>	Luke Mccrohon	Oct-21		Nov-03
+		Luke Fleming <>	Luke Mccrohon	Oct-21		Nov-03
+		James Kirby <>	Luke Mccrohon	Oct-21		Nov-03
+		James Winters <>	Tessa Verhoef	Oct-20		Nov-21
+		Monica Tamariz <>	Tessa Verhoef	Oct-20		Nov-21
+		Michael Pleyer <>	Luke Mccrohon	Oct-21		Nov-25
+		Federica Cavicchio <>	Luke Mccrohon	Oct-21		Nov-18
+		Przemyslaw Zywiczynski <>	Luke Mccrohon	Nov-03		Nov-15
+		Joana Rosselló <>	Luke Mccrohon	Oct-21		Nov-03
+		Tao Gong <>	Sean Roberts	Nov-02		Nov-17
+		Mark Bartlett <>	Sean Roberts	Nov-02		Nov-17
+		Jordi Arranz <>	Lluís Barceló I Coblijn	Nov-05		Nov-23
+		James Steele <>	Olga Feher	Oct-26		Nov-21
+		Willem Zuidema <>	Olga Feher	Oct-26		Nov-28
+		Carlos Santana <>	Olga Feher	Oct-26		Nov-21
+		Teresa Bejarano <>	Luke Mccrohon	Nov-03		Nov-11
+		Monica Tamariz <>	Luke Mccrohon	Oct-21		Nov-20
+		Jon Carr <>	Luke Mccrohon	Oct-21		Nov-20
+		Roland Mühlenbernd <>	Tessa Verhoef	Oct-20		Nov-03
+		Daniel Lenzen <>	Tessa Verhoef	Oct-20		Nov-22
+		Marieke Schouwstra <>	Tessa Verhoef	Oct-29		Nov-16
+		Gerhard Jaeger <>	Sean Roberts	Nov-02		Nov-22
+		Aleksandrs Berdicevskis <>	Sean Roberts	Nov-02		Nov-20
+		Nikolaus Ritt <>	Sean Roberts	Nov-02		Nov-20
+		Dillon Niederhut <>	Sean Roberts	Nov-02		Nov-17
+		Jeremy Collins <>	Christine Cuskley	Oct-20		Nov-20
+		Maryia Fedzechkina <>	Christine Cuskley	Oct-20		Nov-19
+		Hannah Little <>	Christine Cuskley	Oct-20		Oct-21
+		Carel ten Cate <>	Olga Feher	Oct-26		Nov-21
+		Madza Farias-Virgens <>	Olga Feher	Oct-26		Nov-23
+		Tecumseh Fitch <>	Olga Feher	Oct-26		Nov-23
+		Damian Blasi <>	Sean Roberts	Oct-19		Nov-25
+		Brady Clark <>	Sean Roberts	Oct-19		Nov-17
+		Matthew Lou-Magnuson <>	Sean Roberts	Oct-19		Nov-20
+		Elizabeth Irvine <>	Christine Cuskley	Oct-20		Oct-21
+		Monica Tamariz <>	Christine Cuskley	Oct-20		Nov-19
+		Marion Laporte <>	Olga Feher	Oct-26		Nov-21
+		Takeshi Nishimura <>	Olga Feher	Oct-26		Nov-21
+		Chris Knight <>	Luke Mccrohon	Oct-21		Nov-20
+		Nikolaus Ritt <>	Luke Mccrohon	Nov-04		Nov-21
+		Gregory Mills <>	Tessa Verhoef	Oct-20		Nov-21
+		Nicolas Fay <>	Tessa Verhoef	Nov-18		Nov-21
+		Kenny Smith <>	Tessa Verhoef	Oct-20		Nov-23
+		Sabine van der Ham <>	Tessa Verhoef	Oct-20		Nov-04
+		Freek Van de Velde <>	Luke Mccrohon	Oct-21		Nov-03
+		Samarth Swarup <>	Luke Mccrohon	Oct-21		Nov-21
+		Andreas Baumann <>	Luke Mccrohon	Nov-04		Nov-20
+		Tecumseh Fitch <>	Tessa Verhoef	Oct-20		Nov-23
+		Cedric Boeckx <>	Tessa Verhoef	Oct-20		Oct-30
+		Keelin Murray <>	Tessa Verhoef	Oct-20		Oct-30
+		Nikolaus Ritt <>	Sean Roberts	Oct-19		Oct-26
+		Harald Hammarström <>	Sean Roberts	Oct-19		Nov-02
+		Kevin Stadler <>	Sean Roberts	Oct-19		Nov-25
+		Jeremy Collins <>	Sean Roberts	Oct-27		Nov-20
+		Matthew Lou-Magnuson <>	Olga Feher	Oct-26		Nov-21
+		Bill Thompson <>	Olga Feher	Oct-26		Nov-21
+		Ramon Ferrer I Cancho <>	Olga Feher	Oct-26		Nov-21
+		Christina Behme <>	Sean Roberts	Nov-02		Nov-17
+		Savithry Namboodiripad <>	Luke Mccrohon	Oct-21		Nov-20
+		Nikolaus Ritt <>	Luke Mccrohon	Oct-21		Nov-03
+		Freek Van de Velde <>	Luke Mccrohon	Oct-21		Nov-03
+		Robert Truswell <>	Sean Roberts	Nov-02		Nov-20
+		Richard Blythe <>	Sean Roberts	Nov-02		Nov-17
+		Jordi Arranz <>	Sean Roberts	Nov-20		Nov-25
+		Simon Kirby <>	Sean Roberts	Nov-02		Nov-20
+		Tom Sawallis <>	Sean Roberts	Nov-02		Nov-17
+		Ted Bayne <>	Sean Roberts	Nov-02		Nov-17
+		Andrew Wedel <>	Tessa Verhoef	Oct-20		Nov-16
+		Luke Fleming <>	Tessa Verhoef	Oct-20		Nov-21
+		Klaas Seinhorst <>	Sean Roberts	Oct-21		Nov-17
+		Gary Lupyan <>	Christine Cuskley	Oct-20		Nov-16
+		Simon Kirby <>	Christine Cuskley	Oct-20		Nov-18
+		Bodo Winter <>	Christine Cuskley	Oct-20		Oct-21
+		Sabine van der Ham <>	Tessa Verhoef	Oct-20		Nov-16
+		Vanessa Ferdinand <>	Tessa Verhoef	Oct-20		Nov-21
+		Joana Rosselló <>	Tessa Verhoef	Oct-20		Oct-30
+		David Lightfoot <>	Luke Mccrohon	Oct-21		Nov-03
+		Harald Hammarström <>	Luke Mccrohon	Oct-21		Nov-03
+		Anne Marie Di Sciullo <>	Sean Roberts	Nov-02		Nov-17
+		Nikolaus Ritt <>	Sean Roberts	Nov-02		Nov-20
+		Ryan Lepic <>	Tessa Verhoef	Oct-20		Nov-16
+		Erica Cartmill <>	Tessa Verhoef	Oct-20		Nov-23
+		Jennifer Culbertson <>	Tessa Verhoef	Oct-20		Nov-16
+		Jérôme Michaud <>	Sean Roberts	Nov-02		Nov-17
+		Jean-Louis Dessalles <>	Sean Roberts	Nov-02		Nov-17
+		Albert Naccache <>	Sean Roberts	Nov-02		Nov-17
+		Chris Knight <>	Olga Feher	Oct-26		Nov-21
+		Bill Thompson <>	Olga Feher	Oct-26		Nov-21
+		Jordi Arranz <>	Sean Roberts	Nov-20		Nov-20
+		Kenny Smith <>	Olga Feher	Oct-26		Nov-23
+		Mark Atkinson <>	Olga Feher	Oct-26		Nov-21
+		Dan Dediu <>	Sean Roberts	Oct-19		Oct-26
+		Harald Hammarström <>	Sean Roberts	Oct-19		Nov-02
+		Jasmeen Kanwal <>	Sean Roberts	Nov-02		Nov-17
+		Phillip M. Alday <>	Sean Roberts	Nov-02		Nov-20
+		Roslyn Frank <>	Sean Roberts	Nov-02		Nov-17
+		Alan Nielsen <>	Christine Cuskley	Oct-20		Nov-19
+		Molly Flaherty <>	Christine Cuskley	Oct-20		Oct-21
+		Marcus Perlman <>	Christine Cuskley	Oct-20		Oct-23
+		Hannah Little <>	Tessa Verhoef	Oct-20		Oct-30
+		Gary Lupyan <>	Tessa Verhoef	Oct-20		Nov-16
+		Andrew Wedel <>	Tessa Verhoef	Oct-20		Nov-16
+		Olga Vasileva <>	Olga Feher	Oct-26		Nov-21
+		Anneliese Kuhle <>	Olga Feher	Oct-26		Nov-21
+		Michael Arbib <>	Olga Feher	Oct-26		Nov-21
+		Ruth Sonnweber <>	Olga Feher	Oct-26		Nov-21
+		Jean-Louis Dessalles <>	Luke Mccrohon	Oct-21		Nov-03
+		Mark Atkinson <>	Luke Mccrohon	Oct-21		Nov-03
+		Takashi Hashimoto <>	Luke Mccrohon	Oct-21		Nov-28
+		Andrew Feeney <>	Olga Feher	Oct-26		Nov-21
+		Thom Scott-Phillips <>	Olga Feher	Oct-26		Nov-21
+		Marion Laporte <>	Olga Feher	Nov-05		Nov-21
+		Hope Morgan <>	Tessa Verhoef	Oct-20		Nov-16
+		Anneliese Kuhle <>	Tessa Verhoef	Oct-20		Nov-03
+		Marie Montant <>	Tessa Verhoef	Oct-20		Oct-30
+		Antoni Gomila <>	Sean Roberts	Nov-02		Nov-17
+		David Leavens <>	Olga Feher	Oct-26		Nov-21
+		Thom Scott-Phillips <>	Olga Feher	Oct-30		Nov-21
+		Barbora Skarabela <>	Olga Feher	Oct-26		Nov-21
+		Molly Flaherty <>	Olga Feher	Oct-26		Nov-21
+		Christian Abry <>	Olga Feher	Oct-26		Nov-21
+		Christian Abry <>	Luke Mccrohon	Oct-21		Nov-18
+		Daniel Lenzen <>	Luke Mccrohon	Oct-21		Nov-23
+		Teresa Bejarano <>	Luke Mccrohon	Oct-21		Nov-03
+		Carl Vogel <>	Luke Mccrohon	Oct-21		Nov-15
+		Teresa Bejarano <>	Luke Mccrohon	Oct-21		Nov-03
+		Kenta Suzuki <>	Olga Feher	Oct-26		Nov-21
+		Ruth Sonnweber <>	Olga Feher	Oct-26		Nov-21
+		Michelle Spierings <>	Olga Feher	Oct-26		Nov-21
+		Andreas Baumann <>	Christine Cuskley	Oct-20		Oct-29
+		Jasmeen Kanwal <>	Christine Cuskley	Oct-20		Nov-21
+		Alfredo Ardila <>	Olga Feher	Oct-26		Nov-21
+		Jérôme Michaud <>	Olga Feher	Oct-26		Nov-21
+		Jean-Louis Dessalles <>	Olga Feher	Nov-06		Nov-21
+		Stefan Hartmann <>	Luke Mccrohon	Oct-21		Nov-03
+		Phillip Alday <>	Luke Mccrohon	Oct-21		Nov-20
+		Remi Van Trijp <>	Luke Mccrohon	Oct-21		Nov-21
+		Paul Vogt <>	Sean Roberts	Oct-19		Nov-17
+		Mark Dingemanse <>	Sean Roberts	Oct-19		Oct-26
+		Christine Caldwell <>	Luke Mccrohon	Oct-21		Nov-20
+		Dillon Niederhut <>	Luke Mccrohon	Oct-21		Nov-15
+		Christina Behme <>	Sean Roberts	Nov-02		Nov-21
+		Matthew Lou-Magnuson <>	Christine Cuskley	Oct-20		Nov-19
+		Jennifer Culbertson <>	Christine Cuskley	Oct-20		Nov-05
+		Carmen Saldana <>	Christine Cuskley	Oct-20		Nov-16
+		Tao Gong <>	Luke Mccrohon	Oct-21		Nov-03
+		Till Bergmann <>	Luke Mccrohon	Oct-21		Nov-20
+		Aleksandrs Berdicevskis <>	Luke Mccrohon	Oct-21		Nov-21
+		Aritz Irurtzun <>	Sean Roberts	Nov-02		Nov-17
+		Koji Fujita <>	Sean Roberts	Nov-02		Nov-17
+		Greg Bryant <>	Christine Cuskley	Oct-20		Nov-22
+		Tom Sawallis <>	Christine Cuskley	Oct-20		Nov-16
+		Christine Caldwell <>	Christine Cuskley	Oct-20		Nov-19
+		Thom Scott-Phillips <>	Sean Roberts	Oct-19		Nov-17
+		Simon D. Levy <>	Sean Roberts	Oct-19		Oct-26
+		Andrew Feeney <>	Sean Roberts	Oct-19		Nov-20
+		Nikolas Gisborne <>	Sean Roberts	Oct-19		Nov-17
+		Carlos Santana <>	Sean Roberts	Oct-27		Oct-27
+		Andrew Wedel <>	Tessa Verhoef	Oct-20		Nov-16
+		Daniel Lenzen <>	Tessa Verhoef	Oct-20		Nov-22
+		James Kirby <>	Tessa Verhoef	Oct-20		Oct-30
+		Peeter Tinits <>	Christine Cuskley	Oct-20		Nov-19
+		Vanessa Ferdinand <>	Christine Cuskley	Oct-20		Nov-20
+		Luke Fleming <>	Sean Roberts	Nov-02		Nov-20
+		Sergio Balari <>	Sean Roberts	Nov-02		Nov-17
+		Olivier Morin <>	Sean Roberts	Nov-02		Nov-17
+		Ryan Lepic <>	Tessa Verhoef	Oct-20		Nov-16
+		Kang-Suk Byun <>	Tessa Verhoef	Oct-20		Nov-28
+		Jennifer Culbertson <>	Tessa Verhoef	Oct-20		Nov-16
+		Ruth Sonnweber <>	Olga Feher	Oct-26		Nov-21
+		Richard Moore <>	Olga Feher	Oct-26		Nov-21
+		Olga Vasileva <>	Olga Feher	Oct-26		Nov-21
+		Juan Carlos Moreno Cabrera <>	Christine Cuskley	Oct-20		Nov-13
+		Mark Ellison <>	Christine Cuskley	Oct-20		Nov-23
+		Mark Atkinson <>	Christine Cuskley	Oct-20		Oct-23
+		Marion Laporte <>	Olga Feher	Oct-26		Nov-21
+		Catriona Silvey <>	Olga Feher	Oct-26		Nov-21
+		Jon Carr <>	Olga Feher	Oct-26		Nov-21
+		Rory Turnbull <>	Sean Roberts	Nov-02		Nov-23
+		Ramon Ferrer I Cancho <>	Sean Roberts	Nov-02		Nov-17
+		Hannah Little <>	Sean Roberts	Nov-02		Nov-20
+		Ted Bayne <>	Tessa Verhoef	Oct-20		Oct-30
+		Michael Arbib <>	Tessa Verhoef	Oct-20		Nov-16
+		Jasmeen Kanwal <>	Tessa Verhoef	Oct-21		Oct-30
+		Ted Bayne <>	Sean Roberts	Nov-02		Nov-17
+		Carl Vogel <>	Sean Roberts	Nov-02		Nov-17
+		Alfredo Ardila <>	Sean Roberts	Nov-02		Nov-17
+		Bart de Boer <>	Christine Cuskley	Oct-20		Nov-18
+		Katie Slocombe <>	Christine Cuskley	Oct-20		Nov-18
+		Christine Cuskley <>	X	X		Nov-18
+		Seán Roberts <>	X	X		Nov-18
+		Lluís Barceló-Coblijn <>	X	X		Nov-18
+		Luke McCrohon <>	X	X		Nov-18
+		Tessa Verhoef <>	X	X		Nov-18
+		Olga Feher <>	X	X		Nov-18

@@ -1,0 +1,9 @@
+<div id="__PAPERID__">
+	<h5>
+		<a href="__LINK__" id="__TOPICS__">
+			__TITLE__
+		</a>
+	</h5>
+	<p>__AUTHORS__</p>
+	<hr>
+</div>

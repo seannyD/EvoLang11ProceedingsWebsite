@@ -1,0 +1,782 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EvoLang 2016
+X-WR-TIMEZONE:America/Chicago
+X-WR-CALDESC:
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160321T150000Z
+DTEND;TZID=America/Chicago:20160321T153000Z
+DESCRIPTION:Room A: 1500 <a href="http://evolang.org/neworleans/papers/87.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Truswell: Dendrophobia in bonobo comprehension of spoken english
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160321T150000Z
+DTEND;TZID=America/Chicago:20160321T153001Z
+DESCRIPTION:Room B: 1500 <a href="http://evolang.org/neworleans/papers/86.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Janssen, Winter, Dediu, Moisik, Roberts: Nonlinear biases in articulation constrain the design space of language
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160321T150000Z
+DTEND;TZID=America/Chicago:20160321T153002Z
+DESCRIPTION:Room C: 1500 <a href="http://evolang.org/neworleans/papers/129.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Spike, Smith, Kirby: Minimal pressures leading to duality of patterning
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160321T150000Z
+DTEND;TZID=America/Chicago:20160321T153003Z
+DESCRIPTION:Room D: 1500 <a href="http://evolang.org/neworleans/papers/155.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Seinhorst: Mind the gap: inductive biases in phonological feature learning
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160321T153000Z
+DTEND;TZID=America/Chicago:20160321T140000Z
+DESCRIPTION:Room A: 1530 <a href="http://evolang.org/neworleans/papers/84.html">Link to Paper</a><br />Have language and mindreading co-evolved (through culture)? This agent-based model explores their interaction in development and evolution.
+LOCATION:
+SUMMARY:Woensdregt, Smith, Cummins, Kirby: The cultural co-evolution of language and mindreading
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160321T153000Z
+DTEND;TZID=America/Chicago:20160321T140001Z
+DESCRIPTION:Room B: 1530 <a href="http://evolang.org/neworleans/papers/51.html">Link to Paper</a><br />How computer simulations are useful even if they don't provide evidence
+LOCATION:
+SUMMARY:Santana: Skepticism towards skepticism towards computer simulation in evolutionary linguistics
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160321T153000Z
+DTEND;TZID=America/Chicago:20160321T140002Z
+DESCRIPTION:Room C: 1530 <a href="http://evolang.org/neworleans/papers/81.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Stamp, Sandler: The grammar of the body and the emergence of complexity in sign languages
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160321T153000Z
+DTEND;TZID=America/Chicago:20160321T140003Z
+DESCRIPTION:Room D: 1530 <a href="http://evolang.org/neworleans/papers/191.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Enke, Mühlenbernd, Yanovich: The emergence of the progressive to imperfective diachronic cycle in reinforcement-learning agents
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T111500Z
+DTEND;TZID=America/Chicago:20160322T114500Z
+DESCRIPTION:Room A: 1115 <a href="http://evolang.org/neworleans/papers/22.html">Link to Paper</a><br />A bonobo-chimp dictionary: a look at the meanings of wild bonobo gestures, and how they differ from chimpanzees.
+LOCATION:
+SUMMARY:Graham, Hobaiter, Byrne: Intentional meaning of bonobo gestures
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T111500Z
+DTEND;TZID=America/Chicago:20160322T114501Z
+DESCRIPTION:Room B: 1115 <a href="http://evolang.org/neworleans/papers/68.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Vasileva: A continuum of human cognitive-linguistic evolution
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T111500Z
+DTEND;TZID=America/Chicago:20160322T114502Z
+DESCRIPTION:Room C: 1115 <a href="http://evolang.org/neworleans/papers/54.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Regier, Carstensen, Kemp: Languages support efficient communication about the environment: words for snow revisited
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T111500Z
+DTEND;TZID=America/Chicago:20160322T114503Z
+DESCRIPTION:Room D: 1115 <a href="http://evolang.org/neworleans/papers/83.html">Link to Paper</a><br />A new model of the variation and evolution of word order beats the traditional dual two-way approach of standard typology.
+LOCATION:
+SUMMARY:Ferrer-I-Cancho: Kauffman's adjacent possible in word order evolution
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T114500Z
+DTEND;TZID=America/Chicago:20160322T121500Z
+DESCRIPTION:Room A: 1145 <a href="http://evolang.org/neworleans/papers/73.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Clay, Archbold, Zuberbuhler: Functionally flexible vocalizations in wild bonobos (pan pansicus)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T114500Z
+DTEND;TZID=America/Chicago:20160322T121501Z
+DESCRIPTION:Room B: 1145 <a href="http://evolang.org/neworleans/papers/145.html">Link to Paper</a><br />Metalinguistic awareness of trends as a driving force in linguistic evolution: is language change intentional, and not just incidental?
+LOCATION:
+SUMMARY:Stadler, Jamieson, Smith, Kirby: Metalinguistic awareness of trends as a driving force in language change: an empirical study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T114500Z
+DTEND;TZID=America/Chicago:20160322T121502Z
+DESCRIPTION:Room C: 1145 <a href="http://evolang.org/neworleans/papers/193.html">Link to Paper</a><br />Frequency-dependent regularization emerges from frequency-independent regularization plus cultural transmission.
+LOCATION:
+SUMMARY:Morgan, Levy: Frequency-dependent regularization in iterated learning
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T114500Z
+DTEND;TZID=America/Chicago:20160322T121503Z
+DESCRIPTION:Room D: 1145 <a href="http://evolang.org/neworleans/papers/172.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Hinzen, Rosselló: Language origins in light of neuro-atypical cognition and speech profiles
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T121500Z
+DTEND;TZID=America/Chicago:20160322T124500Z
+DESCRIPTION:Room A: 1215 <a href="http://evolang.org/neworleans/papers/118.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Slocombe, Watson, Schel, Wilke, Wallace, Cheng, West, Townsend: Vocal learning in functionally referential chimpanzee food calls
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T121500Z
+DTEND;TZID=America/Chicago:20160322T124501Z
+DESCRIPTION:Room B: 1215 <a href="http://evolang.org/neworleans/papers/110.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Zehentner, Baumann, Ritt, Prömer: A game theoretic account of semantic subjectification in the cultural evolution of languages
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T121500Z
+DTEND;TZID=America/Chicago:20160322T124502Z
+DESCRIPTION:Room C: 1215 <a href="http://evolang.org/neworleans/papers/93.html">Link to Paper</a><br />Languages around the equator tend to have lower information-theoretic complexity.
+LOCATION:
+SUMMARY:Bentz: The low-complexity-belt: evidence for large-scale language contact in human prehistory?
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T121500Z
+DTEND;TZID=America/Chicago:20160322T124503Z
+DESCRIPTION:Room D: 1215 <a href="http://evolang.org/neworleans/papers/27.html">Link to Paper</a><br />iterated learning of silent gesture leads to language-like segmentation
+LOCATION:
+SUMMARY:Motamedi, Schouwstra, Smith, Kirby: Linguistic structure emerges in the cultural evolution of artificial sign languages
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T143000Z
+DTEND;TZID=America/Chicago:20160322T150000Z
+DESCRIPTION:Room A: 1430 <a href="http://evolang.org/neworleans/papers/4.html">Link to Paper</a><br />A signal space having fewer dimensions than a meaning space facilitates the emergence of structure in non-speech-like continuous signals.
+LOCATION:
+SUMMARY:Little, Eryılmaz, de Boer: Differing signal-meaning dimensionalities facilitates the emergence of structure
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T143000Z
+DTEND;TZID=America/Chicago:20160322T150001Z
+DESCRIPTION:Room B: 1430 <a href="http://evolang.org/neworleans/papers/85.html">Link to Paper</a><br />We predict the survival and death of morphological features across modern Slavic languages by measuring their redundancy in Common Slavic
+LOCATION:
+SUMMARY:Berdicevskis, Eckhoff: Redundant features are less likely to survive: empirical evidence from the slavic languages
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T143000Z
+DTEND;TZID=America/Chicago:20160322T150002Z
+DESCRIPTION:Room C: 1430 <a href="http://evolang.org/neworleans/papers/96.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Flaherty, Stangl, Goldin-Meadow: Do lab attested biases predict the structure of a new natural language?
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T143000Z
+DTEND;TZID=America/Chicago:20160322T150003Z
+DESCRIPTION:Room D: 1430 <a href="http://evolang.org/neworleans/papers/102.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Ames, Wielandt, Cameron, Kuczaj: Pre and post partum whistle production of a bottlenose dolphin (tursiops truncatus) mother-calf dyad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T150000Z
+DTEND;TZID=America/Chicago:20160322T153000Z
+DESCRIPTION:Room A: 1500 <a href="http://evolang.org/neworleans/papers/49.html">Link to Paper</a><br />Complex constituent structure evolves through cultural evolution from the trade-off between compressibility and expressivity.
+LOCATION:
+SUMMARY:Saldana, Kirby, Smith: The cultural evolution of complexity in linguistic structure
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T150000Z
+DTEND;TZID=America/Chicago:20160322T153001Z
+DESCRIPTION:Room B: 1500 <a href="http://evolang.org/neworleans/papers/139.html">Link to Paper</a><br />How causal inference can be used to extract hypotheses about semantic evolution from synchronic polysemies.
+LOCATION:
+SUMMARY:Dellert: Using causal inference to detect directional tendencies in semantic evolution
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T150000Z
+DTEND;TZID=America/Chicago:20160322T153002Z
+DESCRIPTION:Room C: 1500 <a href="http://evolang.org/neworleans/papers/34.html">Link to Paper</a><br />English-speaking children learn highly iconic words earlier and produce them more frequently than less iconic words
+LOCATION:
+SUMMARY:Perry, Perlman, Lupyan, Winter, Massaro: Early learned words are more iconic
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T150000Z
+DTEND;TZID=America/Chicago:20160322T153003Z
+DESCRIPTION:Room D: 1500 <a href="http://evolang.org/neworleans/papers/75.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Fröhlich, Kuchenbuch, Müller, Fruth, Furuichi, Wittig, Pika: Cooperative communication and communication styles in bonobos and chimpanzees in the wild: same same but different?
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T153000Z
+DTEND;TZID=America/Chicago:20160322T160000Z
+DESCRIPTION:Room A: 1530 <a href="http://evolang.org/neworleans/papers/127.html">Link to Paper</a><br />An experiment on how opposing biases interact in the cultural evolution of language.
+LOCATION:
+SUMMARY:Roberts, Fedzechkina: Social biases versus efficient communication: an iterated learning study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T153000Z
+DTEND;TZID=America/Chicago:20160322T160001Z
+DESCRIPTION:Room B: 1530 <a href="http://evolang.org/neworleans/papers/89.html">Link to Paper</a><br />A simple language game, enriched by a suitable contact ecology, predicts the emergence of creole languages in agreement with real data.
+LOCATION:
+SUMMARY:Tria, Loreto, Servedio, Salikoko: Modeling the emergence of creole languages
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T153000Z
+DTEND;TZID=America/Chicago:20160322T160002Z
+DESCRIPTION:Room C: 1530 <a href="http://evolang.org/neworleans/papers/47.html">Link to Paper</a><br />Conventions in sign languages emerge in the context of a subtle interplay between iconicity, systematicity and naturalness.
+LOCATION:
+SUMMARY:Verhoef, Padden, Kirby: Iconicity, naturalness and systematicity in the emergence of sign language structure
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T153000Z
+DTEND;TZID=America/Chicago:20160322T160003Z
+DESCRIPTION:Room D: 1530 <a href="http://evolang.org/neworleans/papers/29.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Kriengwatana, Escudero, Kerkhoven, ten Cate: A general auditory bias for handling speaker variability in speech? evidence in humans and songbirds. 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T161500Z
+DTEND;TZID=America/Chicago:20160322T164500Z
+DESCRIPTION:Room A: 1615 <a href="http://evolang.org/neworleans/papers/144.html">Link to Paper</a><br />Overspecification makes languages more complex - but given contextual pressures, complex structures can sometimes be the simpler solution.
+LOCATION:
+SUMMARY:Hartmann, Tinits, Nölle, Hartmann, Pleyer: Plain simple complex structures: the emergence of overspecification in an iterated learning setup
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T161500Z
+DTEND;TZID=America/Chicago:20160322T164501Z
+DESCRIPTION:Room B: 1615 <a href="http://evolang.org/neworleans/papers/197.html">Link to Paper</a><br />What makes American English different from British English? Kids have something to do with it!
+LOCATION:
+SUMMARY:Lupyan, Sulik: The evolution of redundancy in a global language
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T161500Z
+DTEND;TZID=America/Chicago:20160322T164502Z
+DESCRIPTION:Room C: 1615 <a href="http://evolang.org/neworleans/papers/95.html">Link to Paper</a><br />Do children communicate more successfully through gestures or sounds? A developmental perspective on sign creation and iconicity among 6-12 year olds.
+LOCATION:
+SUMMARY:Lister, Burtenshaw, Fay, Walker, Ohan: A developmental perspective on language origin: children are old hands at gesture
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T161500Z
+DTEND;TZID=America/Chicago:20160322T164503Z
+DESCRIPTION:Room D: 1615 <a href="http://evolang.org/neworleans/papers/30.html">Link to Paper</a><br />Plots evolution of Homo speech community size + points out main inflection points correlated with development of human communication system
+LOCATION:
+SUMMARY:Naccache: A social dimension of language evolution
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T164500Z
+DTEND;TZID=America/Chicago:20160322T171500Z
+DESCRIPTION:Room A: 1645 <a href="http://evolang.org/neworleans/papers/74.html">Link to Paper</a><br />Iterated learning + communication in open-ended meaning space gives rise to languages with sublexical structure like that in real languages
+LOCATION:
+SUMMARY:Carr, Smith, Cornish, Kirby: Cultural evolution and communication yield structured languages in an open-ended world
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T164500Z
+DTEND;TZID=America/Chicago:20160322T171501Z
+DESCRIPTION:Room B: 1645 <a href="http://evolang.org/neworleans/papers/138.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Okanoya: Domestication and evolution of signal complexity in finches
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T164500Z
+DTEND;TZID=America/Chicago:20160322T171502Z
+DESCRIPTION:Room C: 1645 <a href="http://evolang.org/neworleans/papers/37.html">Link to Paper</a><br />Triadic ontogenetic ritualization could lead to gestural protolanguage in the context of joint tool use. No need for communicative intentions.
+LOCATION:
+SUMMARY:Abramova: Triadic ontogenetic ritualization: an overlooked possibility
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T164500Z
+DTEND;TZID=America/Chicago:20160322T171503Z
+DESCRIPTION:Room D: 1645 <a href="http://evolang.org/neworleans/papers/196.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Rosselló: Vocal learning and homo loquens
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T171500Z
+DTEND;TZID=America/Chicago:20160322T174500Z
+DESCRIPTION:Room A: 1715 <a href="http://evolang.org/neworleans/papers/6.html">Link to Paper</a><br />Under a gradualist rather than an emergent view of language evolution, we can see how functional elements and linguistic morphology evolved.
+LOCATION:
+SUMMARY:Tallerman: Against the emergent view of language evolution
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T171500Z
+DTEND;TZID=America/Chicago:20160322T174501Z
+DESCRIPTION:Room B: 1715 <a href="http://evolang.org/neworleans/papers/132.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Cavicchio, Leemor, Shamay-Tsoory, Sandler: Are emotional displays an evolutionary precursor to compositionality in language?
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T171500Z
+DTEND;TZID=America/Chicago:20160322T174502Z
+DESCRIPTION:Room C: 1715 <a href="http://evolang.org/neworleans/papers/161.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Geambasu, Spierings, ten Cate, Levelt: Effects of task-specific variables on auditory artificial grammar learning and generalization
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160322T171500Z
+DTEND;TZID=America/Chicago:20160322T174503Z
+DESCRIPTION:Room D: 1715 <a href="http://evolang.org/neworleans/papers/38.html">Link to Paper</a><br />Learning bimodal distributions of auditory, visual, and tactile signals: is category learning specialized for speech?
+LOCATION:
+SUMMARY:van der Ham, Thompson, de Boer: Catergory learning in audition, touch, and vision
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T111500Z
+DTEND;TZID=America/Chicago:20160323T114500Z
+DESCRIPTION:Room A: 1115 <a href="http://evolang.org/neworleans/papers/189.html">Link to Paper</a><br />We implemented the childhood game of telephone online to conduct large experiments on the process by which iterated imitation becomes language.
+LOCATION:
+SUMMARY:Edmiston, Perlman, Lupyan: The fidelity of iterated vocal imitation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T111500Z
+DTEND;TZID=America/Chicago:20160323T114501Z
+DESCRIPTION:Room B: 1115 <a href="http://evolang.org/neworleans/papers/143.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Micklos: Interaction for facilitating conventionalization: negotiating the silent gesture communication of noun-verb pairs
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T111500Z
+DTEND;TZID=America/Chicago:20160323T114502Z
+DESCRIPTION:Room C: 1115 <a href="http://evolang.org/neworleans/papers/64.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Kanwal, Smith, Culbertson, Kirby: The evolution of zipf’s law of abbreviation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T111500Z
+DTEND;TZID=America/Chicago:20160323T114503Z
+DESCRIPTION:Room D: 1115 <a href="http://evolang.org/neworleans/papers/116.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Vastenius, Zlatev, Van de Weijer: Constituent order in pictorial representations of events is influenced by language
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T114500Z
+DTEND;TZID=America/Chicago:20160323T121500Z
+DESCRIPTION:Room A: 1145 <a href="http://evolang.org/neworleans/papers/15.html">Link to Paper</a><br />Budgerigars can learn abstract rules in acoustic strings, zebra finches focus on the positional information.
+LOCATION:
+SUMMARY:Spierings, ten Cate: Rule learning in birds: zebra finches generalize by positional similarities, budgerigars by the structural rules.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T114500Z
+DTEND;TZID=America/Chicago:20160323T121501Z
+DESCRIPTION:Room B: 1145 <a href="http://evolang.org/neworleans/papers/48.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Atkinson, Smith, Kirby: Adult language learning and the evolution of linguistic complexity
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T114500Z
+DTEND;TZID=America/Chicago:20160323T121502Z
+DESCRIPTION:Room C: 1145 <a href="http://evolang.org/neworleans/papers/154.html">Link to Paper</a><br />Learnability pressures influence the encoding of information density in the lexicon: Languages with more speakers have less uniform lexica
+LOCATION:
+SUMMARY:Lewis, Frank: Learnability pressures influence the encoding of information density in the lexicon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T114500Z
+DTEND;TZID=America/Chicago:20160323T121503Z
+DESCRIPTION:Room D: 1145 <a href="http://evolang.org/neworleans/papers/35.html">Link to Paper</a><br />Signaling games simulations suggest that discourse-level semantic approximation helps to explain community-level lexical ambiguity.
+LOCATION:
+SUMMARY:Noble, Fernández: Semantic approximation and its effect on the development of lexical conventions
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T121500Z
+DTEND;TZID=America/Chicago:20160323T124500Z
+DESCRIPTION:Room A: 1215 <a href="http://evolang.org/neworleans/papers/111.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Townsend, Russell, Engesser: Experimental evidence for phonemic-like contrasts in a nonhuman vocal system
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T121500Z
+DTEND;TZID=America/Chicago:20160323T124501Z
+DESCRIPTION:Room B: 1215 <a href="http://evolang.org/neworleans/papers/32.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Cochet, Byrne: Relationship between nonverbal social skills and language development
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T121500Z
+DTEND;TZID=America/Chicago:20160323T124502Z
+DESCRIPTION:Room C: 1215 <a href="http://evolang.org/neworleans/papers/101.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Fedzechkina, Chu, Jaeger, Trueswell: Processing preferences shape language change
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T121500Z
+DTEND;TZID=America/Chicago:20160323T124503Z
+DESCRIPTION:Room D: 1215 <a href="http://evolang.org/neworleans/papers/12.html">Link to Paper</a><br />Extra-large phoneme inventories of southern African languages are the trace of the origin of the duality of patterning.
+LOCATION:
+SUMMARY:Fleming: Phoneme inventory size distributions and the origins of the duality of patterning
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T143000Z
+DTEND;TZID=America/Chicago:20160323T150000Z
+DESCRIPTION:Room A: 1430 <a href="http://evolang.org/neworleans/papers/14.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Ravignani, Delgado, Kirby: The cultural evolution of structure in music and language
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T143000Z
+DTEND;TZID=America/Chicago:20160323T150001Z
+DESCRIPTION:Room B: 1430 <a href="http://evolang.org/neworleans/papers/167.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Meguerditchian, Marie, Margiotoudi, Love, Bertello, Lacoste, Roth, Nazarian, Anton, Coulon: Human-like brain specialization in baboons: an invo anatomical mri study of language areas homologs in 96 subjects
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T143000Z
+DTEND;TZID=America/Chicago:20160323T150002Z
+DESCRIPTION:Room C: 1430 <a href="http://evolang.org/neworleans/papers/100.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Jaeger, Fedzechkina: Effort vs. robust information transfer in language evolution
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T143000Z
+DTEND;TZID=America/Chicago:20160323T150003Z
+DESCRIPTION:Room D: 1430 <a href="http://evolang.org/neworleans/papers/11.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Ackermann, Ziegler: Brain mechanisms of human acoustic communication: a phylogenetic approach and its ontogenetic implications 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T150000Z
+DTEND;TZID=America/Chicago:20160323T153000Z
+DESCRIPTION:Room A: 1500 <a href="http://evolang.org/neworleans/papers/146.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Asano: Towards an action-oriented approach to the evolution of language and music
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T150000Z
+DTEND;TZID=America/Chicago:20160323T153001Z
+DESCRIPTION:Room B: 1500 <a href="http://evolang.org/neworleans/papers/173.html">Link to Paper</a><br />Dogs and bonobos use ostensive cues to follow human gestures, potentially clarifying part of the evolutionary path to language.
+LOCATION:
+SUMMARY:Lyn, Jett, Broadway, Samuelson: Nonhuman animals’ use of ostensive cues in an object choice task
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T150000Z
+DTEND;TZID=America/Chicago:20160323T153002Z
+DESCRIPTION:Room C: 1500 <a href="http://evolang.org/neworleans/papers/165.html">Link to Paper</a><br />Noise in Phonology Affects Encoding Strategies in Morphology: exploring effects of noise, population size and structure using Iterated Learning Models
+LOCATION:
+SUMMARY:Ardell, Anderson, Winter: Noise in phonology affects encoding strategies in morphology
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T150000Z
+DTEND;TZID=America/Chicago:20160323T153003Z
+DESCRIPTION:Room D: 1500 <a href="http://evolang.org/neworleans/papers/82.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Ferdinand, Spike: Word learners regularize synonyms and homonyms similarly
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T153000Z
+DTEND;TZID=America/Chicago:20160323T160000Z
+DESCRIPTION:Room A: 1530 <a href="http://evolang.org/neworleans/papers/26.html">Link to Paper</a><br />Stone tool variability indicates cultural transmission style, indicating theory of mind level, indicating necessary linguistic abilities.
+LOCATION:
+SUMMARY:Cuthbertson: Empirically assessing linguistic ability with stone tools
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T153000Z
+DTEND;TZID=America/Chicago:20160323T160001Z
+DESCRIPTION:Room B: 1530 <a href="http://evolang.org/neworleans/papers/3.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Engesser, Ridley, Townsend: Meaningful call combinations and compositional processing in a social bird
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T153000Z
+DTEND;TZID=America/Chicago:20160323T160002Z
+DESCRIPTION:Room C: 1530 <a href="http://evolang.org/neworleans/papers/107.html">Link to Paper</a><br />Recording a communication game with Kinect, we measured changes in gesture that are the hallmarks of conventionalization in sign language
+LOCATION:
+SUMMARY:Namboodiripad, Lenzen, Lepic, Verhoef: Measuring conventionalization in the manual modality
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T153000Z
+DTEND;TZID=America/Chicago:20160323T160003Z
+DESCRIPTION:Room D: 1530 <a href="http://evolang.org/neworleans/papers/21.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Winter, Perry, Perlman, Lupyan: The structure of iconicity in the english lexicon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T161500Z
+DTEND;TZID=America/Chicago:20160323T164500Z
+DESCRIPTION:Room A: 1615 <a href="http://evolang.org/neworleans/papers/56.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Pika: Cooperative communication: what do primates and corvids have to tell?
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T161500Z
+DTEND;TZID=America/Chicago:20160323T164501Z
+DESCRIPTION:Room B: 1615 <a href="http://evolang.org/neworleans/papers/41.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Boeckx, Theofanopoulou, Benítez-Burraco: How the brain got grammaticalized: globularization and (self-)domestication
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T161500Z
+DTEND;TZID=America/Chicago:20160323T164502Z
+DESCRIPTION:Room C: 1615 <a href="http://evolang.org/neworleans/papers/158.html">Link to Paper</a><br />Across cohorts of Nicaraguan Sign Language, changes in how signers describe agentive events.
+LOCATION:
+SUMMARY:Rissman, Horton, Flaherty, Coppola, Senghas, Brentari, Goldin-Meadow: Strategies in gesture and sign for demoting an agent: effects of language community and input 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T161500Z
+DTEND;TZID=America/Chicago:20160323T164503Z
+DESCRIPTION:Room D: 1615 <a href="http://evolang.org/neworleans/papers/176.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Pleyer, Pleyer: The evolution of im/politeness
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T164500Z
+DTEND;TZID=America/Chicago:20160323T171500Z
+DESCRIPTION:Room A: 1645 <a href="http://evolang.org/neworleans/papers/114.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Collier, Radford, Bickel, Manser, Townsend: Dwarf mongooses combine meaningful alarm calls
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T164500Z
+DTEND;TZID=America/Chicago:20160323T171501Z
+DESCRIPTION:Room B: 1645 <a href="http://evolang.org/neworleans/papers/131.html">Link to Paper</a><br />Multi Agent Modelling of Humpback whale song cultural transmission
+LOCATION:
+SUMMARY:Mcloughlin, Lamoni, Garland, Ingram, Kirke, Noad, Rendell, Miranda: Preliminary results from a computational multi agent modelling approach to study humpback whale song cultural transmission
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T164500Z
+DTEND;TZID=America/Chicago:20160323T171502Z
+DESCRIPTION:Room C: 1645 <a href="http://evolang.org/neworleans/papers/92.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Winters, Kirby, Smith: Signal autonomy is shaped by contextual predictability
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T164500Z
+DTEND;TZID=America/Chicago:20160323T171503Z
+DESCRIPTION:Room D: 1645 <a href="http://evolang.org/neworleans/papers/19.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Blythe, Jones, Renton: Spontaneous dialect formation in a population of locally aligning agents
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T171500Z
+DTEND;TZID=America/Chicago:20160323T174500Z
+DESCRIPTION:Room A: 1715 <a href="http://evolang.org/neworleans/papers/5.html">Link to Paper</a><br />A Grey parrot demonstrates phonological regression very similar to that of some young children during early label acquisition.
+LOCATION:
+SUMMARY:Pepperberg, Zilber-Izhar, Smith: Parrot " phonological regression": expanding our understanding of the evolution of vocal learning
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T171500Z
+DTEND;TZID=America/Chicago:20160323T174501Z
+DESCRIPTION:Room B: 1715 <a href="http://evolang.org/neworleans/papers/52.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Michaud: Linking the processes of language evolution and language change: a five-level hierarchy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T171500Z
+DTEND;TZID=America/Chicago:20160323T174502Z
+DESCRIPTION:Room C: 1715 <a href="http://evolang.org/neworleans/papers/103.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Sulik, Lupyan: Failures of perspective taking in an open-ended signaling task
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160323T171500Z
+DTEND;TZID=America/Chicago:20160323T174503Z
+DESCRIPTION:Room D: 1715 <a href="http://evolang.org/neworleans/papers/112.html">Link to Paper</a><br />Artificial language learning in social groups, evolution of linguistic diversity even with no functional pressure for social differentiation
+LOCATION:
+SUMMARY:Kerr, Smith: The spontaneous emergence of linguistic diversity in an artificial language
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T100000Z
+DTEND;TZID=America/Chicago:20160324T103000Z
+DESCRIPTION:Room A: 1000 <a href="http://evolang.org/neworleans/papers/203.html">Link to Paper</a><br />Studies examining the interaction of human laughter with spontaneous language use reveal aspects of laughter's evolved function
+LOCATION:
+SUMMARY:Bryant: How do laughter and language interact?
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T100000Z
+DTEND;TZID=America/Chicago:20160324T103001Z
+DESCRIPTION:Room B: 1000 <a href="http://evolang.org/neworleans/papers/76.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Sonnweber, Ravignani: Chimpanzees process structural isomorphisms across sensory modalities
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T100000Z
+DTEND;TZID=America/Chicago:20160324T103002Z
+DESCRIPTION:Room C: 1000 <a href="http://evolang.org/neworleans/papers/36.html">Link to Paper</a><br />The emergence of grammatical role marking and person indexing from lexical ad hoc solutions is modeled in a multi-agent computer simulation.
+LOCATION:
+SUMMARY:Lestrade: The emergence of argument marking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T100000Z
+DTEND;TZID=America/Chicago:20160324T103003Z
+DESCRIPTION:Room D: 1000 <a href="http://evolang.org/neworleans/papers/80.html">Link to Paper</a><br />A mathematical model of the co-evolution of language and biology shows that biological adaptations to arbitrary culture can evolve
+LOCATION:
+SUMMARY:de Boer: Language-biology coevolution fixation times
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T103000Z
+DTEND;TZID=America/Chicago:20160324T110000Z
+DESCRIPTION:Room A: 1030 <a href="http://evolang.org/neworleans/papers/23.html">Link to Paper</a><br />Children's determiner productions in the light of discourse: questioning support for innate syntactic categories
+LOCATION:
+SUMMARY:Silvey, Christodoulopoulos: Children's production of determiners as a test case for innate syntactic categories
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T103000Z
+DTEND;TZID=America/Chicago:20160324T110001Z
+DESCRIPTION:Room B: 1030 <a href="http://evolang.org/neworleans/papers/170.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Cartmill: Lasting impacts of the code model on primate communication research
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T103000Z
+DTEND;TZID=America/Chicago:20160324T110002Z
+DESCRIPTION:Room C: 1030 <a href="http://evolang.org/neworleans/papers/133.html">Link to Paper</a><br />How do stories evolve and what makes them successful? Using an experimental game to investigate the evolution of stories.
+LOCATION:
+SUMMARY:Cuskley, Monechi, Gravino, Loreto: The evolution of collaborative stories
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T103000Z
+DTEND;TZID=America/Chicago:20160324T110003Z
+DESCRIPTION:Room D: 1030 <a href="http://evolang.org/neworleans/papers/99.html">Link to Paper</a><br />Pointing & sequence organisation decreases need for symbols in co-operative tasks, symbols costly to set up so may emerge late
+LOCATION:
+SUMMARY:Irvine, Roberts: Deictic tools can limit the emergence of referential symbol systems
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T110000Z
+DTEND;TZID=America/Chicago:20160324T113000Z
+DESCRIPTION:Room A: 1100 <a href="http://evolang.org/neworleans/papers/140.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Behme: Evolution of what?
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T110000Z
+DTEND;TZID=America/Chicago:20160324T113001Z
+DESCRIPTION:Room B: 1100 <a href="http://evolang.org/neworleans/papers/66.html">Link to Paper</a><br />Stick or Switch: A Simple Selection Heuristic Drives Adaptive Language Evolution
+LOCATION:
+SUMMARY:Fay, Rogers: Stick or switch: a simple selection heuristic may drive adaptive langauge evolution
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T110000Z
+DTEND;TZID=America/Chicago:20160324T113002Z
+DESCRIPTION:Room C: 1100 <a href="http://evolang.org/neworleans/papers/24.html">Link to Paper</a><br />Why would separate genetically related languages show parallel changes (Sapir's drift)? Genetic drift from population genetics explains it!
+LOCATION:
+SUMMARY:Yanovich: Genetic drift explains sapir's ``drift'' in semantic change
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T110000Z
+DTEND;TZID=America/Chicago:20160324T113003Z
+DESCRIPTION:Room D: 1100 <a href="http://evolang.org/neworleans/papers/117.html">Link to Paper</a><br />Zipf's size-meaning law benefits not only speakers but addressees as well.
+LOCATION:
+SUMMARY:Van de Velde, Pijpops: Addressees use zipf's law as a cue for semantics
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T114500Z
+DTEND;TZID=America/Chicago:20160324T121500Z
+DESCRIPTION:Room A: 1145 <a href="http://evolang.org/neworleans/papers/137.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Feher, Smith, Wonnacott, Ritt: Communicative interaction leads to the elimination of unpredictable variation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T114500Z
+DTEND;TZID=America/Chicago:20160324T121501Z
+DESCRIPTION:Room B: 1145 <a href="http://evolang.org/neworleans/papers/94.html">Link to Paper</a><br />Word order variability influences interpretation of verbs in silent gesture. Bayesian Inference explains how.
+LOCATION:
+SUMMARY:Thompson, Schouwstra, de Swart: Interpreting silent gesture
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T114500Z
+DTEND;TZID=America/Chicago:20160324T121502Z
+DESCRIPTION:Room C: 1145 <a href="http://evolang.org/neworleans/papers/57.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Dediu, Moisik: Anatomical biasing of click learning and production: an mri and 3d palate imaging study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T114500Z
+DTEND;TZID=America/Chicago:20160324T121503Z
+DESCRIPTION:Room D: 1145 <a href="http://evolang.org/neworleans/papers/62.html">Link to Paper</a><br />Survey of 14 popular introductions to linguistics. Shows that teaching of language evolution to students of linguistics needs improvement
+LOCATION:
+SUMMARY:Wacewicz, Zywiczynski, Jasinski: Language evolution and language origins in teaching linguistics at the university level
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T121500Z
+DTEND;TZID=America/Chicago:20160324T124500Z
+DESCRIPTION:Room A: 1215 <a href="http://evolang.org/neworleans/papers/60.html">Link to Paper</a><br />CUMULATIVE VOCAL CULTURES IN ORANGUTANS AND THEIR ONTOGENETIC ORIGIN
+LOCATION:
+SUMMARY:Lameira, Kendal, Gamba: Cumulative vocal cultures in orangutans and their ontogenetic origin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T121500Z
+DTEND;TZID=America/Chicago:20160324T124501Z
+DESCRIPTION:Room B: 1215 <a href="http://evolang.org/neworleans/papers/67.html">Link to Paper</a><br />Basic word order in silent gesture: initially conditioned semantically, but becomes regular through interaction and iteration
+LOCATION:
+SUMMARY:Schouwstra, Smith, Kirby: From natural order to convention in silent gesture
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T121500Z
+DTEND;TZID=America/Chicago:20160324T124502Z
+DESCRIPTION:Room C: 1215 <a href="http://evolang.org/neworleans/papers/90.html">Link to Paper</a><br />Prosody interferes with emotion word processing, eliciting automatic responses even when conflicting with both verbal content and facial expressions.
+LOCATION:
+SUMMARY:Filippi, Ocklenburg, Bowling, Heege, Newen, Güntürkün, de Boer: Multimodal processing of emotional meanings:  a hypothesis on the adaptive value of prosody
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T121500Z
+DTEND;TZID=America/Chicago:20160324T124503Z
+DESCRIPTION:Room D: 1215 <a href="http://evolang.org/neworleans/papers/194.html">Link to Paper</a><br />What insights can Jellyfish, prions, Tasmanian devil cancers, air plants and Oxytricha trifallax give us into the evolution of culture?
+LOCATION:
+SUMMARY:Mccrohon: Biological systems of interest to researchers of cultural evolution
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T124500Z
+DTEND;TZID=America/Chicago:20160324T131500Z
+DESCRIPTION:Room A: 1245 <a href="http://evolang.org/neworleans/papers/39.html">Link to Paper</a><br />word order universals are reflected in the spontaneous gestures of non-signers
+LOCATION:
+SUMMARY:Culbertson, Kirby, Schouwstra: Word order universals reflect cognitive biases: evidence from silent gesture
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T124500Z
+DTEND;TZID=America/Chicago:20160324T131501Z
+DESCRIPTION:Room B: 1245 <a href="http://evolang.org/neworleans/papers/149.html">Link to Paper</a><br />Construction Grammar is evolvable, and a suitable framework for protolanguages.
+LOCATION:
+SUMMARY:Johansson: Protolanguage possibilities in a construction grammar framework
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T124500Z
+DTEND;TZID=America/Chicago:20160324T131502Z
+DESCRIPTION:Room C: 1245 <a href="http://evolang.org/neworleans/papers/72.html">Link to Paper</a><br />Comparing cultural evolution in diffusion chains of Lego constructions: linguistic signals, artworks and technological tools
+LOCATION:
+SUMMARY:Tamariz, Carr: What is unique about the evolution of language compared to other cultural domains? an experimental study of language, technology and art
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T124500Z
+DTEND;TZID=America/Chicago:20160324T131503Z
+DESCRIPTION:Room D: 1245 <a href="http://evolang.org/neworleans/papers/88.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Truswell, Gisborne: A constant rate effect without stable functions
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T131500Z
+DTEND;TZID=America/Chicago:20160324T134500Z
+DESCRIPTION:Room A: 1315 <a href="http://evolang.org/neworleans/papers/148.html">Link to Paper</a><br />Human brains evolved into  small-world networks in order to deal with a huge quantity of linguistic information
+LOCATION:
+SUMMARY:Barcelo-Coblijn: Evolution towards an optimal management of linguistic information
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T131500Z
+DTEND;TZID=America/Chicago:20160324T134501Z
+DESCRIPTION:Room B: 1315 <a href="http://evolang.org/neworleans/papers/151.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Zuidema: Deep learning models of language processing and the evolution of syntax
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T131500Z
+DTEND;TZID=America/Chicago:20160324T134502Z
+DESCRIPTION:Room C: 1315 <a href="http://evolang.org/neworleans/papers/108.html">Link to Paper</a><br />A-life simulation shows how the language-faculty gene network might distort the molecular clock
+LOCATION:
+SUMMARY:Mitchener: How selection for language could distort the dynamics of human evolution
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20160324T131500Z
+DTEND;TZID=America/Chicago:20160324T134503Z
+DESCRIPTION:Room D: 1315 <a href="http://evolang.org/neworleans/papers/28.html">Link to Paper</a><br />
+LOCATION:
+SUMMARY:Wedel, Winter: Languages prefer robust phonemes
+END:VEVENT
+END:VCALENDAR

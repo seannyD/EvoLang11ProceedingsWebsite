@@ -1,0 +1,143 @@
+
+Terrific, Y.  Your revised questions seem good to me!
+
+I’ll let you know what else I find out, too.
+
+Best
+
+X
+
+> On Jan 18, 2016, at 2:04 PM, Y <Y@Y> wrote:
+>
+> Dear Prof. X,
+>
+> Many thanks again for more helpful answers.  I'm quite happy for you to discuss this with whoever you'd like (and I'd be interested to know the answers).
+>
+> I think I understand enough now to ask the authors the proper questions.  I will assume that everyone wants to retain copyright.
+>
+> Question 1:
+> Do you want your paper to appear in the proceedings?
+> Y / N / Delay until X
+>
+> Question 3:
+> If so, please fill indicate that you agree with the following statement by selecting an option below:
+> "We the authors retain exclusive copyright of the work.  We grant non-exclusive production and dissemination rights to The EvoLang Committee for purposes of putting our paper in the EvoLang online conference proceedings, with the understanding that it will appear under the following license:"
+> Option 1: CC-BY
+> Option 2: CC BY-NC-ND
+> Option 3: Other (please specify)
+>
+> (and I'll put a short explanation before all this, explaining basically what you explained in your first email, and promoting the use of CC-BY).
+>
+> Y
+>
+>
+> On 18/01/2016 21:34, X, X wrote:
+>>
+>>> On Jan 15, 2016, at 12:21 AM, Y <Y@Y> wrote:
+>>>
+>>> Dear Prof. X,
+>>>
+>>> This is a most helpful email, thank you for taking the time. 
+>>
+>> My pleasure, Y!  Your additional questions are good and I’ll answer them to the best of my understanding — see below.  Additionally, though, if you have no objections, I’d like to get in touch with a couple of legal-expert colleagues and ask them these questions as well, so that I can get a bit higher degree of certainty in my answers.  I would like to know the answers to your questions with certainty because these questions are surely relevant to others as well.  Would that be OK?
+>>
+>>
+>>> I see now that the current form is quite confused.  I wonder if I can ask a two more questions for clarification:
+>>>
+>>> This year we are not involving a publishing company for the proceedings - we are just hosting papers online ourselves.  In this case, there's no company to transfer the copyright to, meaning that authors should retain copyright (is that right?). 
+>>
+>> Well, I think technically that the authors could transfer copyright to *someone* — the question is, to whom would copyright be transferred?  My guess is that copyright can only be transferred to a legal entity (https://simple.wikipedia.org/wiki/Legal_entity) — that is, a person, company, scholarly society, other non-profit organization, and so forth.  If EvoLang or the EvoLang committee has legal status, then probably there could be copyright transfer to that group, but if it doesn’t, then I expect transfer could only be to specific individuals.
+>>
+>> More generally, though, I don’t think there is any reason in your situation that you would want the authors of EvoLang proceedings papers to transfer their copyright away.  For example, suppose that a case of potential copyright infringement arises involving an EvoLang paper.  Do you want EvoLang to bear responsibility for pursuing the case?  Probably not.
+>>
+>> The FAQ here on copyright is well worth reading!
+>>
+>>   http://www.copyright.gov/help/faq/
+>>
+>>> However, does this also mean that there's no publishing company to take on the commitment of publishing?  Put another way, is a publishing license still appropriate?
+>>
+>> This is a great question.  My guess is as follows.  Presumably there is some work involved in preparing the conference proceedings, and certain people are doing that work.  I think that, for each paper, a formal agreement between (i) the authors of that paper and (ii) the group G of people doing the work of publishing the paper that says something along the lines of “We the authors grant non-exclusive production and dissemination rights to G for purposes of putting our paper in the EvoLang conference proceedings, with the understanding that it will appear under license X”.  This written agreement would be valuable because it would be a record of the author’s assent to the production of a copy of the paper in the proceedings with a particular license — so that, e.g., if the author agrees to the CC BY license, the author can’t go back and complain after the fact that they wanted a different, more restrictive license.
+>>
+>> I’m not sure what the exact wording is.
+>>
+>>> Assuming it is, I see now that copyright and publishing licences are different things.  So, on the web page where we release the papers, should we put a copyright notice, and ALSO a publishing license?
+>>> e.g.
+>>>
+>>> Title: Deictic tools limit emergence of symbolic systems
+>>> Authors: Liz Irvine & Y Roberts
+>>> [link to pdf]
+>>> (c) Irvine & Roberts, 2016
+>>> This work is licensed under a Creative Commons XXX license.
+>>
+>> Yes, I think so.  Ideally both the copyright notice and license information would appear on the PDF of the article as well.  For example, look at the bottom of the first page of this article:
+>>
+>>   http://idiom./~rX/papers/smith-X-2013-cognition.pdf
+>>
+>>> Secondly, some authors are concerned about turning results from these conference papers into a journal paper.  Am I right in thinking that, as long as they hold the copyright,  they are able to re-use material in the proceedings in another copyrighted journal paper, regardless of the license under which the conference paper is released?
+>>
+>> I want to be clear about the two different notions of “material” involved here.  One notion is data, theory, ideas, and so forth — what we think of as the “intellectual content”.  This first class of things cannot be copyrighted.  Second is material that expresses this content in a communicative medium: text explaining the theory and ideas, figures displaying these and/or data, original author-produced recordings (e.g., a recorded talk).  This second class of things can be copyrighted — though note that spatial arrangements themselves cannot be copyrighted (so that you can exactly reproduce a figure); this is a bit of a potential gray area.
+>>
+>> There are two possible concerns regarding reuse of material from an EvoLang conference paper in a journal paper.  First is whether the journal editor and reviewers consider the material in the journal submission adequate for publishability in the journal given the presence of the EvoLang conference paper, from an intellectual-content standpoint.  This judgment will vary from journal to journal and from editor to editor, generally depending on whether there is a “delta” of additional content beyond the EvoLang paper in the journal submission, and if there is such a “delta”, how big it is.  But these are purely intellectual-content matters, and neither copyright nor publishing license has any bearing on the matter whatsoever.
+>>
+>> Second is whether the author can directly reuse the copyright-susceptible material from their EvoLang paper in a journal article.  If the author retains copyright and grants EvoLang non-exclusive production and dissemination rights, then you’re absolutely in the clear as regards copyright law.  The standard considerations of appropriate quotation and citation practice apply, of course — not due to copyright law, but due to ordinary professional ethics of academic work.
+>>
+>> I hope this all is helpful!  And once again, I’d like to send these questions over to a couple of OA-interested law colleagues of mine; please let me know whether you’d object.
+>>
+>> Best
+>>
+>> X
+>>
+>>
+>>
+>>> Many thanks again for your email, and to the greater OA cause,
+>>>
+>>> Y
+>>>
+>>> On 14/01/2016 20:38, X, X wrote:
+>>>> Dear EvoLang committee,
+>>>>
+>>>> I’m a co-author on EvoLang 2016 paper ZZZ (), and your email + web form regarding the license under which our paper will be published in the EvoLang proceedings has alerted me to what I think may be a misunderstanding on your part regarding the relationship between copyright and licensing.  Your email and webworm state:
+>>>>   
+>>>>> The proceedings of EvoLang XI will be made available online for anyone to download.  We would like to release your paper under a creative commons "Attribution-NonCommerical-NoDerivs" license.  This allows others to download your work and share them with others as long as they credit you, but they can’t change your work in any way or use them commercially.  A creative commons license makes your work available to others, free of charge, making it more likely your work will be read and cited.  However, some authors may wish to retain full copyright or use some other license, or release the paper only after a certain date.
+>>>>
+>>>> and the set of options you allow us to choose among are:
+>>>>
+>>>> • Creative commons Attribution-NonCommercial-NoDerivs (preferred)
+>>>> • I wish to retain full copyright
+>>>> • Do not include my paper in the online proceedings
+>>>> • Other: 
+>>>>
+>>>> As a side effect of my involvement in the founding of the new cognitive science journal Open Mind, where I’ll be an associate editor (http://www.mitpressjournals.org/loi/opmi), I’ve become perhaps unusually knowledgeable regarding copyright and OA licenses.  So I’d like to explain my understanding of this relationship, which I have discussed at length with a number of legal experts in the area, including a former president of Creative Commons.  Crucially, the disposition of copyright upon publication of a paper is orthogonal to the question of the licensing terms under which the publisher distributes the paper.  When an author (or set of authors) publishes a paper with a publisher, regarding copyright there are two common practices:
+>>>>
+>>>>  * the author may transfer copyright to the publisher; or
+>>>>  * the author may retain copyright.
+>>>>
+>>>> If the author transfers copyright, the publisher thereby has the right to distribute the paper under terms of their choice.  If the author retains copyright, she must license publishing rights for the paper to the publisher.  That license may be exclusive or non-exclusive, as specified in the terms of the publication agreement.  That is copyright and publishing.
+>>>>
+>>>> The agreement between the author and the publisher that an article will be published Open Access under a certain license is effectively a commitment on the part of the publisher that the publisher will exercise their publishing rights to distribute the paper under that license.  This does not preclude the publisher from distributing the paper, or parts of the paper, under other terms, unless the publication agreement explicitly prohibits such redistribution.  (Likewise, if the author retains copyright and the publication-rights license she grants the publisher is not exclusive, the author is free to redistribute the paper, or parts of the paper, under other terms as well.)
+>>>>
+>>>> Hopefully this helps clarify that the disposition of copyright and the licensing terms of publication are really two orthogonal matters.  The author can retain copyright and the article can be published under any of a number of OA licenses (or for that matter a non-OA license).  Or the author can also transfer copyright to the publisher and the article can be published under any of a number of OA licenses (or under a non-OA license).  In practice, there seems to be a correlation such that when articles are published under an OA license, the author also retains copyright, because that is most fully "in the spirit” of OA principles.
+>>>>
+>>>> For these reasons, I’d recommend that you revise your licensing form to separate the matters of copyright and publication license.  You could give one binary selection of include/exclude my paper from the proceedings, and in the event that the authors choose to include the paper, give a second binary selection of “retain copyright” versus “transfer copyright to [whatever the appropriate organization/publisher is]”, and a third multiple-choice selection among a number of OA licenses.
+>>>>
+>>>> Finally, I’d like to suggest that you considering making the CC BY license the default and recommended selection among the OA licenses that you allow authors to choose among, rather than CC BY-NC-ND.  The basic reason is that CC BY puts up zero obstacles to free reuse of content from published articles, so long as there is proper attribution of intellectual credit.  There are many places online where you can find what I believe are persuasive arguments for CC BY as the default (or even only allowed) license.  Stuart Shieber has a good, short article that I would recommend to start with:
+>>>>
+>>>>   http://jlm.ipipan.waw.pl/index.php/JLM/article/viewFile/58/27
+>>>>
+>>>> Ands I’d be happy to discuss any of these matters further if it’d be useful!
+>>>>
+>>>> Best & many thanks once more for all your work on EvoLang 11!  I’m looking forward to the conference.
+>>>>
+>>>> X X
+>>>>
+>>>> --
+>>>>
+>>>> X X                      Email: rX@
+>>>> 
+>>>> 
+>>>> 
+>>>>
+>>>
+>>
+>
+

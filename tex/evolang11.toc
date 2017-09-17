@@ -1,0 +1,9 @@
+\select@language {english}
+\contentsline {chapter}{Preface}{3}{chapter*.2}
+\thispagestyle {plain}
+\contentsline {chapter}{Program committee}{9}{chapter*.3}
+\contentsline {chapter}{\textbf {Papers}}{9}{chapter*.4}
+\contentsline {chapter}{Deictic Tools Can Limit The Emergence Of Referential Symbol Systems, \newline \textit { Elizabeth Irvine, Sean Roberts}}{10}{section*.5}
+\contentsline {chapter}{\textbf {Abstracts}}{19}{chapter*.6}
+\contentsline {chapter}{Nonlinear Biases In Articulation Constrain The Design Space Of Language, \newline \textit { Rick Janssen, Bodo Winter, Dan Dediu, Scott Moisik, Sean Roberts}}{20}{section*.7}
+\contentsline {chapter}{Index of authors}{23}{section*.7}

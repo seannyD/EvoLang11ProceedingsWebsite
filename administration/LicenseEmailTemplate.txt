@@ -1,0 +1,25 @@
+EvoLang: Revised license agreement for paper [*NUMBER*]
+
+Dear [*NAME*],
+
+After speaking with some experts, we realise that the previous advice about licenses was not suitable.  The issue of who holds the copyright is separate from the license to publish between the author and the publisher.
+
+Therefore, all authors will retain copyright of their work, and in addition allow the EvoLang Committee to publish their work online through the license of their choice.  There are no fees involved and the EvoLang committee will not sell the work.
+
+After more discussion, we are now advocating the use of CC BY license, which allows free reuse of the work as long as the original authors are attributed.  This is the standard license for many open access journals, and there is a good article here making the case for using CC BY:
+http://jlm.ipipan.waw.pl/index.php/JLM/article/viewFile/58/27
+
+However, you are free to choose the more restrictive license if you wish.  More information on creative commons licenses are available here: https://creativecommons.org/licenses/ 
+
+Paper number: [*NUMBER*]
+[*TITLE*]
+
+Please go to this form to indicate your license preference:
+
+https://docs.google.com/forms/d/1-vAjne4TRJv9pzngIb-FMRHDjeCwk9181F5Xgwpi7YY/viewform?entry.15096595=[*NUMBER*]&entry.835801706=[*FIRST-NAME*]%20[*LAST-NAME*]
+
+We apologise for taking up your time once again.  Hopefully this will be the last action required from you.
+
+Best,
+
+The EvoLang Committee

@@ -1,0 +1,155 @@
+EvoLang Minutes
+
+Simon:
+	Summary of how evolang is organised
+		Co-chairs: finding next venue
+		Central committee: institutional memory, policy making
+		Treasurer: 
+		Scientific committee: Should be younger people, good to have their names up
+		Local committee
+		Prize commtee
+			Fitch: Do we have a Hurford prize?
+				Yes - we're keeping it going.
+				
+Heidi: 
+	Profit made this year!
+	Also made profit last year, but it's being kept in Vienna until the last minute. Getting it to the US was quite tough.
+	Problems: Late registration
+		2 weeks before,  139 registered -> at conference 210 
+		Cut down on ordering stuff, because of uncertainty
+	Simon Q: Difference in numbers from Vienna
+		Ritt: Roughly similar numbers (but more registered early)
+	Kenny Q: Differential in money on early and late registration? Maybe change to encourage
+	
+	Sverker Q: Who runs the financial risk?
+		Heidi: Host university signs contracts etc., also the case for Vienna
+		Simon: there's no official organisation to take the risk
+		
+	Heidi: Questions on structure of timetable?
+		Kenny Q: Plenaries were great, but EvoLang has lots of plenaries than other conference.  Maybe reduce 
+			Heidi: Attempted to lower the number of plenaries, trusting that many would reject, but many accepted.  Difficult to judge how many to ask.  Discussion plenaries are actually not just '1' session.  
+		Luke: Really liked the discussion format.  Cut down on time (90min 2 talks)
+			Heidi Seconds this.
+		Ted Bane: One plenary with one well-known expert on music.  Music was a big deal in Vienna, it would be a good recurring theme.
+			Simon:  Stimulating an area for a plenary is hard.  Num of plenaies will increase.  Bonus of being on the local organisign commitee is the freedom to shape the plenary themes.
+			Bane: Music is a bigger domain than that
+			Heidi: Normally, the central comittee makes an initial list, puts it to central committee, thrash it out. (local doesn't have an influecen on accepted talks)
+		Simon parallel talks?: 
+			Fewer parallel talks
+			Gary: 30 min is time for questions, that's good.  But it's long to sit through.
+			Heidi: Frequent conversaion.  I liked longer discussion, better time-keeping.
+			Heidi: We reject about 25% of submissions, so fewer talks will reject.  Also reduce the number of people attending.
+			
+		Vote: 4 parallel sessions is fine: 90%.  3 is better: 20%
+		
+		Erica: Shorter talks?  10% .  Longer talks: 90%
+		
+		Vittorio: Parallel is not the problem.  But maybe make topics more defined.
+		Simon: We've tried before.  Workshops do this, but a lot of work is so interdiciplinary it's hard to make topics
+		Heidi: We tried to assign topics, but it's hard.  It's good to have something that's not entierly the same in each session
+		
+Double blind reviewing
+	Gary: Why were reviewers more generous?  Could predict opposite?  
+	Simon: Politeness?
+	Molly: Make sure papers get assigned properly
+	Simon: I was a sceptic, but gender balance is convincing.
+	Eric: B
+	
+Proceedings:
+	Ramon: Good, save money.  Access is crucial.  DOI for every paper
+	Bart:  Pity we don't have the book.
+		Need to get ISBN number
+		Seconded by Erica
+		
+	Jelle: Very short abstracts should be available at the conference.
+	
+	Naccache:  Can we open the previous books.  Print on demand.
+		Put books on 
+	Student: Publish as ebook?
+	
+	Vote: missed having physical book: 25%
+	
+	Simon: Try to make an ebook.
+	
+Future of the community and conference:
+	Bart: Future of the journal JOLE
+		2 issues per year, eventually 4 issues per year.  (e.g. 50 papers per year)
+		Currently: 44 submissions (skewed with initial target article)
+		Ramon Q: Advising younger people: when will the journal be indexed?
+			Bart: Don't know, will find out.
+		Ritt: Open access journal?
+			Bart: Can buy open access, some disagreement on board about open access.  Will be reconsidering the option.  First 2 years will be openly available.  Articles will be e.g. $3000.
+
+	Simon: Should we be officially a society?  Is there a need to change how we organise?
+		Ritt: Society would collect membership fees, reduce risk of local organisers?  (but questions about how high fee is etc. etc.)
+		Ted Bane Q: Could society be a registered charity, and therefore accept donations.  
+			Simon: Don't know, but it's potentially a costly start-up/overhead
+		Kenny: Conference always makes money, and we can use the money on non-conference things, but an official society would make this more difficult.
+		Simon: We want to get the structure on the website more transparently
+		
+	Heidi: Relationship to protolang?
+		Zywichinsky: Started as small event, it emerged to what it is.  But can't imagine what the relationship would be.
+		Simon: Concern - difficult to find hosts, the delegate numbers are low compared to what it should be.   Is the Protolang conference splitting the community?  Any ideas for how to increase profile and delatge numbers
+		Heidi: predicted that EvoLang in America would bring more USA people, but profile is lower in the US.  By bringing it to the US, the profile should increse in the us, and bring more people in.
+		Simon: EvoLang is mainly a Euro conference, USA has been seen as a risk, but it's been a positive experience.  Possibly another US host for 4 years time?
+	Mitchener:  Middle of March, partway through semester.  
+	Fitch: Good time for europeans
+	Heidi: Tulane is on spring break, it's a good time in some places.  But not earlier, so people could get home for Easter.  US universities are on different schedules.  
+	Erica: No official policy - local committee could change this.
+	Gareth Roberts: Danger of moving date Competing with other conferences, and a sense of when EvoLang takes place.
+	Andrea Ravigniani:  Move from Monday to Friday (less cover).
+		Heidi: Mainly timed for spring break in US.  But travelling days before makes it difficult to have later in week.
+
+Membership of committees
+	Simon: Permanent committee should change slowly, but we need some way of turnover.  Sci committee should have some overlap year-to-year.
+	Heidi: 2 tier system in the permanent committee, junior become senior.
+	
+	14 people in commitee present.  
+	Simon: Don't want to add people.  Does anyone feel that that they want to leave?
+	
+	Heidi: Conference organisers get promoted to organising commitee.  But from Utrecht, there's been junior members.  But we need a list of poeple on the commitee, then assess in the future.
+	Sean: Get technical people on the editorial committee
+	Erica:  If there are people who are interested in volunteering on the ed committee, please email the committee.
+	Vittorio:  Partial renewal every 1 or 2 years is good.  Don't have to divide between junior and senior.  I agree with turnover, but every 2 eyars we should renew part of the committee.
+	Fitch:  Tried to initiate a mass retirement of the committee.  Manditory retirement should be considered (as long as there are people who keep institutional memory).  Maybe not voting, but need to reconsider.
+	
+	Fitch: Could we have elections at the meeting?
+	Simon: Possibly, good idea, but needs organising - something to plan in future.  Institutional memory is important.
+		Online elections?
+		
+	Fitch: Motion for making an election next time
+		Ravigniani seconds
+		No opposed
+	Ramon: There should be some design in terms of balancing areas of interest, age.
+	Simon: Can't work this out now, but should do somehting structured.  We'll canvas opinion online
+	
+	Erica: Nominating new people to join central committee?
+	
+	Gary: I nominate myself
+	Chrissy: Nominate myself
+	Molly Flaherty: Nominate myself
+	Simona Pika: Nominate myself
+	
+	Jele: Bart or Dan (for editors)
+
+
+Online proceedings
+	Sean: We had about 5000 views of the online proceedings, encourage to use next time, too
+
+Effects of double blind review:
+	Sean: Comparing single and double blind review: The ranking of papers with female first authors improves significantly in the double blind condition.  There are also interactions with student status. But there complications in the data, further investigation needed.
+	
+	
+Biologists.  who's been asking questions at the conference.  A little analysis - we will make this available.  Gender, front/back of room.  Mostly males asking questions, mostly males getting questions first. 
+	Simon: Gender of plenarists of this conference is bad - we should commit to improve 
+	Heidi: Racial diversity is also a good aim
+	Erica: Little communication with attendees after the conference.  We have minutes now, so we can forward this to people.  
+	Bart: JOLE allows conference report
+Molly Flaherty: Gender balance on commitee?
+	
+Talk times could be variable.  Long talk, flash talks.  Hip cool new.  Good for students.
+	Seconded by many.
+
+Luke:  Poster conference session.  Important to make this an important event, good for socialising.
+	Seconded by many.
+	

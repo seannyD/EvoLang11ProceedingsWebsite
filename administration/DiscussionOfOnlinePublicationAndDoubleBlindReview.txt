@@ -1,0 +1,108 @@
+Hello all,
+
+Our editorial board is now assembled, so I'm writing to you in order to make some important decisions about changes.
+
+First, I suggest we move from the old MyReview system for paper submissions to EasyChair (http://www.easychair.org/).  This should be a no-brainer - it will make the whole process easier and more sustainable.
+
+Second, I suggest we move from single-blind review to double-blind review (authors don't know who's reveing them, reviewers don't know who the authors are).  This should be relatively straightforward.  The big change will be that initial submissions must be anonymous - no author names, and no revealing in the text who the authors are.  The key to making this work will be very clear instructions to authors in the call for papers.  Again, I think this is an easy decision to make.
+
+Finally, the publishing of the proceedings.  I'd like to argue that we should abandon the physical books and move to a digital proceedings, and I'd like your feedback on whether this is a good idea or not.  We have not yet renewed the contract with the publisher, so this decision needs to be made soon.  Here's my argument:
+
+Physical copies are a waste of material.  600 page hardback books kill trees and waste energy in shipping etc.
+
+Producing physical copies of the proceedings is a waste of time. Liaising with the publisher takes time and effort.  We have to provide them with the digital manuscript anyway, but also have to adhere to their particular format.  They do some amount of checking of the format, but they can't proof-read the papers, since they are not familiar with the field and in any case, getting authors to correct them would be too much work.  Authors understand that they are responsible for the content of their work.  If anything, physical copies lock-in mistakes, while digital copies could be corrected later.
+
+Physical copies cost money.  (at least, I assume they do, I'm not entierly clear on how the book deal works).  We already effectively produce a digital copy ourseleves for free.  The savings could go towards e.g. student grants to attend the conference.
+
+Physical copies make it difficult to read papers after the conference. Often, the physical books are the only place where abstracts and papers are available (in fact, I don't have a copy of one of my own abstracts).  If you don't have a book, it's hard to find, read and cite the papers.  Authors put papers on their websites, but this is patchy, and many authors are not sure whether doing so is legal.  A digital version would be easier to distribute and find online, meaning that people would be more likely to cite these papers.  A digital version also demonstrates that EvoLang is a cutting-edge conference.
+
+Physical copies are not useful.  It's annoying to be handed a big, heavy book at the conference.  Increasingly, people have laptops or tablets at the conference and would find a digital copy more useful.  I aslo feel that nobody actually wants a physical copy. I may be wrong here, but for instance - there are still pages that have not been cut in my copy from last year.  I had digital copies of the papers
+
+Here's what I propose:  We produce a digital version of the proceedings.  This will inclde a pdf of the whole 'book', which will be very similar to what we already have, and also individual pdfs for each paper in a searchable databse.  This would be similar to the system that cogsci uses: https://mindmodeling.org/cogsci2014/
+The format of the papers would remain the same (we'd use the templates from last year).
+The digital proceedings would recieve an ISBN, and each individual paper would get a DOI, meaning that everything can be cited.
+The proceedings would be released under a creative commons lisence which does not allow others to re-publish or create derivitive works (
+Attribution-NonCommercial-NoDerivatives 4.0 International).
+The proceedings would be hosted on the evolang.org website (or on the offical conference website, then moved to evolang.org for archiving). Eventually, several years' worth of proceedings would be available. (legal issues aside, we could also provide digital copies of past proceedings).  I haven't worked out the technical details of how this will be done, but should be relatively easy to allow basic distribution (some free conference management programs allow automatic production of a proceedings website).
+
+
+There are some conuter-arguments:
+Publishers provide prestige.  The proceedings feel more 'official' with a publsher's stamp.  However, increasingly, conferences are moving towards electronic proceedings.
+
+It's 'nice' to have a physical book.  Although I feel that we just have to get over this, others may complain that they can't continue their multi-coloured EvoLang bookshelf.  I think the advantages of a digital version outweigh sentiment.
+
+Publishers provide reliable, long-term distribution.  Actually, this only applies as long as there are financial incentives.  The evolang.org website has been around for a while, and the first conference still has a web presence: http://confs.infres.enst.fr//evolang/edinbook.html.  I'd argue that Edinburgh has more of an incentive to archive this than publishers.
+
+Finally, perhaps this change is too radical do make without consulting the EvoLang committee in full.  It could be a target for the future rather than being executed now.
+
+
+Alternatively, perhaps there is a compromise.  We may be able to get a deal for an electronic, open-access proceedings from the publisher.  Or provide a print-on demand service (with or without a publisher). However, this may be extra work, and I'm not sure we gain much. 
+
+--------------
+
+this is in reply to Sean's circular to the editing team for the New Orleans conference.  His last proposal, that we should move to completely electronic publishing of the proceedings, is pretty persuasive, but I felt it might help to go to a slightly wider number of interested parties, hence my cc'ing this to members of the organizing committee (so some of you will get this twice).  Let Sean know what you think of this.  As I say, I find his arguments persuasive, even though I'm not very up with most recent technology.  As for Sean's other two suggestions (shift to a different online reviewing system, and move to completely anonymous reviewing), I am completely in agreement.
+
+-------
+
+I fully support the idea of publishing the proceedings online. Producing books simply costs too much money, the prestige associated with "World Scientific" (the publishing house used for the last proceedings) is negligible, and the papers will be easier to find and be read by more people if they are available online. Also they will be available freely to everybody. Now, readers have to pay for them, and none of the profits go to EVOLANG. Why should we sponsor publishers, if really all the work is done by us?
+
+All that matters is to find a reliable - and ideally cost free - online repository for the volume, but that should be easy since major universities offer such repositories anyway these days.
+
+In my view, the only advantage of the books were that you could carry them round and look into them during the conference itself. But given the fact that these days most people have hand held devices on which they can read the stuff too, that is no longer a real advantage either.
+
+For the costs of the Vienna volume, quite a number of PhDs could have been sponsored, or the conference fees could have been reduced.
+
+So please let's go online. NOW!
+
+-----
+
+Agreed - we should be online only asap in my view. I think Cogsci provides an excellent example of an effective online proceedings (although note that they use only full papers, which we have rejected because of the risk this requirement has in blocking the subsequent publication of work.)
+
+I'm not a fan of double-blind peer review for abstracts, but I suspect I am in the minority. 
+
+-----
+
+I agree with XXX about the importance of having a good feedback process for double-blind reviews: with reviewer confidence and requirement of some explanation of why the review score was given. This is important for final decisions and for authors.
+
+I am also fully in favour of digital books for Evolang. All of the other conferences I attend are digital. I personally always found it very annoying to carry the heavy Evolang book home. For something to look through at the conference itself,  the SAAs are already using a mobile app that contains all of the program and lets people define their own schedule onto their own device:
+http://saasfo2015.quickmobile.mobi/
+
+As for Easychair, I'd strongly recommend AGAINST it! We used it for Protolang this year and I found it extremely lengthy, overly complicated, tedious, and counter-intuitive. I interacted with Easychair both as an individual submitting an abstract, and then later as one of the reviewers on the committee, so I saw both sides of it. The abstract submission process was so complicated that I nearly gave up! They first ask you to register with your personal details, and then you have to go through about 5 steps before you can actually submit something, and then the submission page isn't user-friendly, it can't be saved to return later, and they make you enter the same information 3 times. In terms of the reviewing process, that was a little better because you could "bid" for abstracts you wanted to review, but still we had some bugs where some of us weren't able to see the other reviews that had been done on our reviewed abstracts (although you're supposed to be able to see all reviews of each paper after you've reviewed them). So that hindered our team discussions of which papers to accept. That was only with about 100 abstracts, so I'd dread to think of how it might work with the volume of abstracts that Evolang gets, and the higher number of reviewers!
+
+I always find the Evolang submission system to be very easy to use, and straightforward. Why would you want to get rid of it?
+
+
+------
+
+I agree with the online version, though I'll really miss the book, particularly during the conference, as Jim pointed out (I still look into them sometimes, when I remember some ideas I saw during the conference, "who said that", or "who was developing that idea..."; but this is something one can do faster with a pdf and Crtl+F).
+
+This last week until today I've been dealing with Easychair and after a brief period of skepticism, I've to say it's useful.
+In that case I've got 5 (!!) reviews. Perhaps it's too much for our resources (I'm not sure; I'm thinking more in the number of areas and topics, huge in comparison to other conferences), but it was interesting the fact that each reviewer said his/her level of familiarity with the topic -from 1 to 5- (of course one should be honest in this regard).
+
+In general I'm not a big fan of "blind" reviews, since it's clear that sometimes the reviewer uses it as a cover to say things that would think twice if his/her name were public. Anyway, if we were able to get 3 reviews, this should be enough to decide. However, I remember that in the past it has been difficult sometimes to find enough Reviewers.
+
+----
+
+Like XXX, I am not a fan of double-blind reviewing, but this is something that consistently comes up in the discussion of the conference, so we should probably give it a try and see how it goes. My biggest concern is about papers submitted by students or people new to the conference being judged more harshly than they might otherwise be. I always try to be a little more forgiving in the review process and in the editorial decisions if the author is not an EVOLANG regular. I think it's important for bringing new people into the fold. Many of these abstracts are way off the mark, but a few borderline cases have tipped over into accepts this way. Perhaps we could mark abstracts in some way if the first author is a student (or has never attended the conference before) so that reviewers can be a little nicer in pointing out missed references or other potential knowledge gaps than they otherwise might be?
+
+We've had problems with MyReview for the last 2 conferences, so I think switching to a new platform would be great!
+
+I will be very sad to see the books go (I still look at mine and I love having them all lined up on a shelf), but I do see the points Sean makes. I am one of those people who carries the book around during the conference and reads abstracts to decide what talk to go to next. I have also been sorely disappointed with conferences that have apps or mobile websites that are supposed to allow you to do this online. If we do away with the books, I do want to make sure there is still some sort of printed booklet that shows (minimally) the schedule, talk titles, rooms, and abstracts of the plenaries. Since EVOLANG is such an international conference, not everyone's smart phones work in all countries and it is really important to have some info you can consult when you can't access the wifi, etc. We don't want to move from carrying around books to carrying around laptops in order to access the conference info. I know the local committee handles this, but I just wanted to make sure we didn't move everything online. Perhaps this schedule could be expanded slightly to include author emails and affiliations or other info typically in the book (maybe even one sentence summaries of the general approach of the work). I still really like having the printed book, but I suspect I am in the minority on this one (and I do like the environment).
+
+-----
+
+Online proceedings: sounds like a good move to me. Cutting out the delays arising from producing a printed volume might also mean the submission deadline can be extended, or at least the reviewers and editors will be a bit less rushed. The one thing I would suggest is that there must be consistency in the format and hosting website across conferences - this was one of the main arguments in the past in favour of sticking with World Scientific rather than using a separate local publisher for each conference. Given that there is continuity in the editors of the volumes across years, and the evolang.org website, this should be easy to achieve. 
+
+Double-blind reviewing: In general the quality of talks at evolang seems to get better every time, so I don’t think there’s a big problem with how we currently do reviews. Especially for very short abstracts, I’d be worried that double blind reviewing might actually reduce the overall quality of the talks. 
+
+MyReview vs EasyChair: I remember that MyReview isn’t ideal, although it sounds like people’s experiences of EasyChair aren't uniformly positive either. Why not use some of the money saved from not getting hard-copy proceedings (I think it’s $20-30 per book) to pay for a system that actually works well? I have always found the system that Cog Sci use fine for authors or reviewers, https://precisionconference.com/products.shtml, but there are probably loads of commercial systems.
+
+----
+
+Online vs. hard copy: very reluctantly agreed that we should move to online only; I liked the books... 
+
+Access to abstracts: I definitely agree that we need to ensure that abstracts are available WELL before the meetings, to allow people to weave a path through multiple parallel sessions. Please can we not assume that everyone can access abstracts online during the conference itself. Even if it's possible, it takes time you don't have whilst at the conference. A short-abstract meeting booklet would be ideal. Is it too much work?
+
+Double-blind reviewing: I don't feel it to be necessary or desirable. 
+
+EasyChair etc: I think EasyChair is OK - better than some, for sure, worse than others I expect.
